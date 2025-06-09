@@ -1,0 +1,895 @@
+[
+  {
+    "title": "Software Engineer (New Grad Program)",
+    "company_name": "Sigma",
+    "location": "New York, NY",
+    "via": "LinkedIn",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Engineer&htidocid=EgAsxaVQpLTLvK1-AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBAAUFy7uzjdqKKJCC52loJDETp1Ktd6ptE0V-4C7W_4x9rlrS_7rrK84leaUAhu0flIJLAtaYJC8AkPYSc47OAId25BCaXrgSMUzC7QJu9TGvVqrWowThMm35mOB8uRWp7tm1tdaLT_D2PARM35cprNGN1-XXk3IPgIy1ezfA5Q1j9cb4kclAAAAA&shmds=v1_AQbUm97Qi86noXzkzxzhFMquzM1RXwhamCj1OqcDSoefATW1OA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Engineer&htidocid=EgAsxaVQpLTLvK1-AAAAAA%3D%3D",
+    "thumbnail": "https://serpapi.com/searches/683770de31aafe93fb3698be/images/71c6a2a754e42ca359200453b75aca5cb0bbe930d54f936d228e9e848c00a9ce.jpeg",
+    "extensions": [
+      "2 days ago",
+      "Internship",
+      "Paid time off",
+      "Health insurance"
+    ],
+    "detected_extensions": {
+      "posted_at": "2 days ago",
+      "schedule_type": "Internship",
+      "paid_time_off": true,
+      "health_insurance": true
+    },
+    "description": "Sigma unlocks the value of data by delivering cloud-scale analytics and business intelligence with the simplicity of a spreadsheet, complete with pivot tables and next generation dashboards. We empower business professionals, non-technical users, and data teams to quickly explore, analyze, visualize, and collaborate, leveraging all of their data across the organization.\n\nOur New Grad (Temp-to-Hire) Program At Sigma\n\nSigma\u2019s early career program is the launchpad for the next generation of engineers and innovators. As a Software Engineering New Grad at Sigma, you\u2019ll work on various production features and learn efficient engineering for large scalable systems. Our new grads work directly with our engineers, product leaders, and designers across the organization everyday. We\u2019re looking for recent graduates who bring curiosity, a spirit for collaboration, and a desire for shaping the future of business insights and data exploration.\n\nNote: Our New Grad Program is a temp-to-hire program. Participants will be hired in a 3 month temp role and converted to a FTE based on positive performance and evaluation.\n\nNew Grad Program Qualifications\n\u2022 Authorization:\n\u2022 You must be legally authorized to work in the US\n\u2022 Visa sponsorship is not available for our new grad positions, but we welcome applicants on a student visa (with authorization to work in the U.S.) to apply\n\u2022 Location:\n\u2022 Our new grad roles are in-person and located within San Francisco, CA or New York, NY. Relocation assistance will be provided for recent graduates who will need to relocate in the form of a relocation bonus.\n\u2022 Applicants must be able to work in-person in our offices either in San Francisco or New York City for the duration of their 3 month internship.\n\nAbout The Role\n\nSigma\u2019s Engineering organization is a dynamic, high performing team of Software Engineers who complement each other's skills. Our Engineers design, implement, and scale technical solutions that power our core product and enable our users to make data driven decisions in their businesses. As a Software Engineering New Grad, you will experiment, prototype, and implement features that help our global user base analyze and gather insights from their data. During your new grad program, you\u2019ll partner directly with your engineering mentor, as well as collaborate with other teams across the business. Our New Grad Program (Temp-to-Hire) is a direct pipeline into a full-time role and conversion will be available based on successful performance. From Product Designers, Product Managers, Sales, and, of course, actual users, you will collaborate across the company to determine the best solution for your technical challenge. New Grads will take their project from ideation through implementation, iterating and gathering feedback along the way. As a New Grad, you will deploy features and gather insights from customer metrics to aid you in making better development decisions and improve your business acumen.\n\nNote: Our New Grad Program is a temp-to-hire program. Participants will be hired in a 3 month temp role and converted to a FTE based on positive performance and evaluation.\n\nDuring Your New Grad Program You Will\n\u2022 Learn how to build production software and understand how large Single Page Applications are built and extended with the user experience top of mind\n\u2022 Experience how backend scales to handle multiple customers and billions of data points while keeping user information secure\n\u2022 Gain an understanding of how to own a development project from beginning to end\n\u2022 Develop automated unit tests to get the relevant code coverage and work with product owners and techpubs to document your work\n\u2022 Partner with other Engineers, Product Managers, and Designers\n\u2022 Design and deliver innovative solutions to improve the Sigma user experience by implementing new features into our product\n\u2022 Find new ways to optimize the performance of one or more components of the product\n\nWhat We\u2019re Looking For\n\u2022 Applicants must be a recent graduate (within the last 12 months) of a Bachelor\u2019s or a Master\u2019s degree program in Computer Science or a related field\n\u2022 Able to begin a 3 month temp-to-hire role beginning in May 2025 or thereafter\n\u2022 Have an intermediate to advanced grasp of Operating Systems, Data structures, algorithms and at least one modern programming language such as Java, Python, JavaScript, etc.\n\u2022 Excited to learn and build complex user interfaces, data visualizations, or backend systems\n\u2022 Solid project management and communication abilities. You love to find the right resources and can own tasks end to end with minimal supervision.\n\u2022 Have a drive and desire to navigate unknowns, after all, that\u2019s what unlocks realizations\n\u2022 Ability to collaborate and work in a team environment\n\u2022 Able to commit 40 hrs a week for 12 weeks in-person in one of our office locations\n\nAdditional Job Details\n\nNew Grads at Sigma are compensated with an hourly rate and relocation bonus (where applicable). Our hourly rate for this role is $65.00 per hour.\n\nAbout Us\n\nSigma is the only cloud analytics and business intelligence tool empowering business teams to break free from the confines of the dashboard, explore data for themselves, and make better, faster decisions. The award-winning software was built to capitalize on the performance power of cloud data warehouses to combine data sources and analyze billions of rows of data instantly via an intuitive, spreadsheet-like interface \u2013 no coding required.\n\nSince launching with its unique interface, Sigma Computing has added features such as collaboration tools and embedded analytics capabilities. The most recent product launch included a set of AI tools such as forecasting capabilities, an AI copilot and a notebook interface for users who prefer a code-first environment.\n\nSigma announced its $200M in Series D financing in May 2024, to continue transforming BI through its innovations in AI infrastructure, data application development, enterprise-wide collaboration, and business user adoption. Spark Capital and Avenir Growth Capital co-led the Series D funding round, with additional participation from a group of past investors including Snowflake Ventures and Sutter Hill Ventures.The Series D funding, raised at a valuation 60% higher than the company\u2019s Series C round three years ago, promises to further accelerate Sigma\u2019s growth.\n\nCome join us!\n\nBenefits For Our Full-Time Employees\n\u2022 Equity\n\u2022 Generous health benefits\n\u2022 Flexible time off policy. Take the time off you need!\n\u2022 Paid bonding time for all new parents\n\u2022 Traditional and Roth 401k\n\u2022 Commuter and FSA benefits\n\u2022 Lunch Program\n\u2022 Dog friendly office\n\nSigma Computing is an equal opportunity employer. We are committed to building a smart and strong team regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We look forward to learning how your experience can enable all of us to grow.\n\nNote: We have an in-office work environment in all our offices in SF, NYC, and London.",
+    "job_highlights": [
+      {
+        "title": "Qualifications",
+        "items": [
+          "You must be legally authorized to work in the US",
+          "Visa sponsorship is not available for our new grad positions, but we welcome applicants on a student visa (with authorization to work in the U.S.)",
+          "Applicants must be able to work in-person in our offices either in San Francisco or New York City for the duration of their 3 month internship",
+          "Experience how backend scales to handle multiple customers and billions of data points while keeping user information secure",
+          "Applicants must be a recent graduate (within the last 12 months) of a Bachelor\u2019s or a Master\u2019s degree program in Computer Science or a related field",
+          "Able to begin a 3 month temp-to-hire role beginning in May 2025 or thereafter",
+          "Have an intermediate to advanced grasp of Operating Systems, Data structures, algorithms and at least one modern programming language such as Java, Python, JavaScript, etc",
+          "Excited to learn and build complex user interfaces, data visualizations, or backend systems",
+          "Solid project management and communication abilities",
+          "You love to find the right resources and can own tasks end to end with minimal supervision",
+          "Have a drive and desire to navigate unknowns, after all, that\u2019s what unlocks realizations",
+          "Ability to collaborate and work in a team environment"
+        ]
+      },
+      {
+        "title": "Benefits",
+        "items": [
+          "Able to commit 40 hrs a week for 12 weeks in-person in one of our office locations",
+          "New Grads at Sigma are compensated with an hourly rate and relocation bonus (where applicable)",
+          "Our hourly rate for this role is $65.00 per hour",
+          "Benefits For Our Full-Time Employees",
+          "Equity",
+          "Generous health benefits",
+          "Flexible time off policy",
+          "Take the time off you need!",
+          "Paid bonding time for all new parents",
+          "Traditional and Roth 401k",
+          "Commuter and FSA benefits",
+          "Lunch Program",
+          "Dog friendly office"
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "items": [
+          "Participants will be hired in a 3 month temp role and converted to a FTE based on positive performance and evaluation",
+          "Relocation assistance will be provided for recent graduates who will need to relocate in the form of a relocation bonus",
+          "As a Software Engineering New Grad, you will experiment, prototype, and implement features that help our global user base analyze and gather insights from their data",
+          "From Product Designers, Product Managers, Sales, and, of course, actual users, you will collaborate across the company to determine the best solution for your technical challenge",
+          "New Grads will take their project from ideation through implementation, iterating and gathering feedback along the way",
+          "As a New Grad, you will deploy features and gather insights from customer metrics to aid you in making better development decisions and improve your business acumen",
+          "Participants will be hired in a 3 month temp role and converted to a FTE based on positive performance and evaluation",
+          "Learn how to build production software and understand how large Single Page Applications are built and extended with the user experience top of mind",
+          "Gain an understanding of how to own a development project from beginning to end",
+          "Develop automated unit tests to get the relevant code coverage and work with product owners and techpubs to document your work",
+          "Partner with other Engineers, Product Managers, and Designers",
+          "Design and deliver innovative solutions to improve the Sigma user experience by implementing new features into our product",
+          "Find new ways to optimize the performance of one or more components of the product"
+        ]
+      }
+    ],
+    "apply_options": [
+      {
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-program-at-sigma-4238208519?refId=VlZaeg%2BcdJb9Nz4sC/upEg%3D%3D&trackingId=N5fiKiCrrpGTje9Lwkce/w%3D%3D&position=4&pageNum=0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Wellfound",
+        "link": "https://wellfound.com/jobs/3301253-software-engineer-new-grad-program?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "PHP-Proxy",
+        "link": "http://proxy.esaunggul.ac.id:8181/index.php?q=n6qmo6qcZ2Csr6phoMrTopuYoNCRx9XQlM6jlatmqsucrWGmpsisqJaqmGCZz8ygpJmc1JDSy9qSy6aUnGSk1KadpJSkj5mlYqucmqHCkmtnbWmUk5aWm5WjppiegJifeW95dpvcnHuGnnyIrq_Gq46LhcbdtYuWqYlnd16rpsOaoZuhnqucblpqeaOKrd5-bK2sspa0vLzWzYKWfrF1s1xpdlhqpg&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "The Org",
+        "link": "https://theorg.com/org/sigma-computing/jobs/software-engineer-new-gra-180ecb9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Welcome To The Jungle | Login",
+        "link": "https://app.welcometothejungle.com/jobs/rrIu6jwY?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Towards AI Jobs",
+        "link": "https://jobs.towardsai.net/job/sigma-computing-software-engineer-new-grad-program-z9xn?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Startup Jobs",
+        "link": "https://startup.jobs/software-engineer-new-grad-program-sigma-computing-6798474?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Airofwellnessperks.store",
+        "link": "https://airofwellnessperks.store/?_=/jobs/view/software-engineer-new-grad-program-at-sigma-4192202080%23%2ByLMu0rHYPbPqHVJy23OJPYy0aUXniC0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciAoTmV3IEdyYWQgUHJvZ3JhbSkiLCJjb21wYW55X25hbWUiOiJTaWdtYSIsImFkZHJlc3NfY2l0eSI6Ik5ldyBZb3JrLCBOWSIsImh0aWRvY2lkIjoiRWdBc3hhVlFwTFRMdksxLUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdUbVYzSUZsdmNtc3NWVzVwZEdWa0lGTjBZWFJsY3cifQ=="
+  },
+  {
+    "title": "Protection and Controls Engineer",
+    "company_name": "AECOM",
+    "location": "New York, NY",
+    "via": "AECOM Jobs",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Engineer&htidocid=9lenRDW6TxvThNHIAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBAAUFy7uzjdLJqIIIKdpBRBsLp2Kmk80mi8K7kD-xP-s7q86RWfWbG_ZVb0GpnA0R0qJs2cBGoKkRAzrOHMPQi67Af4rRNzSLgoB9VRDtaKJBNEnUZvPL8sE_Y82Qf38qeTwWUck1PstrvNZEYKy_mxrq4XiAQNvqHl_FxB034BChZNHpAAAAA&shmds=v1_AQbUm96uDBAmU5Og16lTyj4i7CnZ-bkGHh7Ju8fbr9lUl8G4Gg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Engineer&htidocid=9lenRDW6TxvThNHIAAAAAA%3D%3D",
+    "extensions": [
+      "Full-time",
+      "Paid time off",
+      "Dental insurance",
+      "Health insurance"
+    ],
+    "detected_extensions": {
+      "schedule_type": "Full-time",
+      "paid_time_off": true,
+      "dental_coverage": true,
+      "health_insurance": true
+    },
+    "description": "Company Description\n\nWork with Us. Change the World.\n\nAt AECOM, we're delivering a better world. Whether improving your commute, keeping the lights on, providing access to clean water, or transforming skylines, our work helps people and communities thrive. We are the world's trusted infrastructure consulting firm, partnering with clients to solve the world\u2019s most complex challenges and build legacies for future generations.\n\nThere has never been a better time to be at AECOM. With accelerating infrastructure investment worldwide, our services are in great demand. We invite you to bring your bold ideas and big dreams and become part of a global team of over 50,000 planners, designers, engineers, scientists, digital innovators, program and construction managers and other professionals delivering projects that create a positive and tangible impact around the world.\n\nWe're one global team driven by our common purpose to deliver a better world. Join us.\n\nJob Description\n\nAECOM has a position opening for a Protection and Controls Engineer to support our growing Energy Business Line\u2019s Engineering Center of Excellence in our Grid Modernization programs, projects and pursuits.\n\nOur team provides a wide range of electrical engineering services across markets sectors including transmission (substations, OH/UG transmission systems, generator interconnections, interconnection strategy), power distribution (OH/UG power systems, substations, EV charging networks, microgrid design, etc.), renewables (Solar PV, Battery Energy Storage Systems, Wind), and next generation energy (hydrogen, fuel cells, electrolyzers, etc.). We are looking for a talented engineer with a protection and controls background to promote our skills to new clients and maintain our existing client base.\n\nThe successful candidate will have an understanding and experience in electrical engineering design and technology principles. She/he will be expected to work successfully within a team environment and be able to communicate effectively with other project team members and customers. He/she will have a high level of initiative, motivation, and displays drive, energy and enthusiasm for getting things done with an excellent attention to detail.\n\nThe responsibilities of this role also include, but may not be limited to, the following:\n\u2022 Responsible for the electrical engineering design work on assigned projects\n\u2022 Provide mentorship for the other electrical engineers in our High Voltage/Power team\n\u2022 Working with Project Engineer and Project Manager on developing design schedules and budgets for electrical engineering work activities\n\u2022 Performing Power system studies and system protection settings coordination on various project\n\u2022 Generate basis of design documentation for protection settings and relay configurations\n\u2022 Supporting projects during construction, start-up, and commissioning\n\u2022 Reviewing engineering work performed by peers\n\u2022 Attending client meetings\n\u2022 Occasional travel to client and/or project sites (including data gathering and field walks)\n\u2022 Mentor early career engineers and facilitate internal training sessions, if requested\n\nLevel specific responsibilities:\n\u2022 Serves as lead engineer on projects of all sizes\n\u2022 Senior technical resource may serve as technical advisor for team\n\u2022 Provides specialized technical input to studies and design for staff's specific area of expertise.\n\u2022 Develops study and design procedures to facilitate high quality cost effective work by others.\n\u2022 Participates in interdisciplinary review of project deliverables.\n\u2022 Develops construction cost estimates and estimates of technical efforts for projects.\n\u2022 Uses expertise in all steps of completing discipline component of PS&E package.\n\u2022 Performs quality control review of design calculations or drawings.\n\u2022 Prepares technical specification sections.\n\u2022 Provides input to the development of engineering budget and schedule to meet requirements.\n\nDCS\u2014Energy\n\nAECOM\u2019s Energy practice provides a wide range of services from consulting and engineering design to energy engineering, energy procurement and construction (EPC) for power, energy efficiency, and renewable energy clients. Our understanding of the big picture \u2013 and the interconnection between generation, distribution, storage, and the demand side of the meter \u2013 allows us to deliver holistic strategies that improve and modernize next generation energy infrastructure. We connect knowledge and experience across our global framework to bring together a unique combination of engineers, planners, scientists, and project managers who advance cleaner, secure, and more sustainable energy solutions.\n\nQualifications\n\nMinimum Requirements:\n\u2022 Bachelor\u2019s degree in Electrical Engineering and 6 years of relevant experience or demonstrated equivalency of experience and/or education.\n\u2022 6 years of relevant protection and controls experience.\n\nPreferred Qualifications:\n\u2022 Professional Engineering licensure preferred\n\u2022 10 yrs. experience with a minimum of 2 years as project lead\n\u2022 Knowledge of FERC and NERC requirements\n\u2022 Experience with IEC61850\n\u2022 Successful track record working with remote teams\n\u2022 Experience on full EPC, Design/Build projects from start to finish.\n\u2022 Plant Startup and Commissioning Field Experience\n\u2022 Power systems analysis software experience (SKM, EasyPower, Etap).\n\u2022 Relay coordination utilizing ASPEN OneLiner\n\u2022 Experience developing native relay setting files\n\u2022 Distribution automation experience\n\u2022 Experience working in collaborative 3D model environments (e.g. Navisworks)\n\nAdditional Information\n\u2022 Relocation assistance is not available for this role\n\u2022 Sponsorship for US Employment Authorization is available for this position.\n\nOffered compensation will be based on location and individual qualifications. The expected range is $130,000.00 - $170,000.00.\n\nAbout AECOM\n\nAECOM is proud to offer comprehensive benefits to meet the diverse needs of our employees. Depending on your employment status, AECOM benefits may include medical, dental, vision, life, AD&D, disability benefits, paid time off, leaves of absences, voluntary benefits, perks, flexible work options, well-being resources, employee assistance program, business travel insurance, service recognition awards, retirement savings plan, and employee stock purchase plan.\n\nAECOM is the global infrastructure leader, committed to delivering a better world. As a trusted professional services firm powered by deep technical abilities, we solve our clients\u2019 complex challenges in water, environment, energy, transportation and buildings. Our teams partner with public- and private-sector clients to create innovative, sustainable and resilient solutions throughout the project lifecycle \u2013 from advisory, planning, design and engineering to program and construction management. AECOM is a Fortune 500 firm that had revenue of $16.1 billion in fiscal year 2024. Learn more at aecom.com.\n\nWhat makes AECOM a great place to work\n\nYou will be part of a global team that champions your growth and career ambitions. Work on groundbreaking projects - both in your local community and on a global scale - that are transforming our industry and shaping the future. With cutting-edge technology and a network of experts, you\u2019ll have the resources to make a real impact. Our award-winning training and development programs are designed to expand your technical expertise and leadership skills, helping you build the career you\u2019ve always envisioned. Here, you\u2019ll find a welcoming workplace built on respect, collaboration and community\u2014where you have the freedom to grow in a world of opportunity.\n\nAs an Equal Opportunity Employer, we believe in your potential and are here to help you achieve it. All your information will be kept confidential according to EEO guidelines.\n\nReqID: J10127103\n\nBusiness Line: Energy\n\nBusiness Group: DCS\n\nStrategic Business Unit: East\n\nCareer Area: Engineering\n\nWork Location Model: Hybrid\n\nLegal Entity: AECOM Technical Services Inc",
+    "job_highlights": [
+      {
+        "title": "Qualifications",
+        "items": [
+          "The successful candidate will have an understanding and experience in electrical engineering design and technology principles",
+          "She/he will be expected to work successfully within a team environment and be able to communicate effectively with other project team members and customers",
+          "Bachelor\u2019s degree in Electrical Engineering and 6 years of relevant experience or demonstrated equivalency of experience and/or education",
+          "6 years of relevant protection and controls experience",
+          "experience with a minimum of 2 years as project lead",
+          "Knowledge of FERC and NERC requirements",
+          "Experience with IEC61850",
+          "Successful track record working with remote teams",
+          "Experience on full EPC, Design/Build projects from start to finish",
+          "Plant Startup and Commissioning Field Experience",
+          "Power systems analysis software experience (SKM, EasyPower, Etap)",
+          "Relay coordination utilizing ASPEN OneLiner",
+          "Experience developing native relay setting files",
+          "Distribution automation experience",
+          "Experience working in collaborative 3D model environments (e.g"
+        ]
+      },
+      {
+        "title": "Benefits",
+        "items": [
+          "Sponsorship for US Employment Authorization is available for this position",
+          "Offered compensation will be based on location and individual qualifications",
+          "The expected range is $130,000.00 - $170,000.00",
+          "Depending on your employment status, AECOM benefits may include medical, dental, vision, life, AD&D, disability benefits, paid time off, leaves of absences, voluntary benefits, perks, flexible work options, well-being resources, employee assistance program, business travel insurance, service recognition awards, retirement savings plan, and employee stock purchase plan"
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "items": [
+          "He/she will have a high level of initiative, motivation, and displays drive, energy and enthusiasm for getting things done with an excellent attention to detail",
+          "Responsible for the electrical engineering design work on assigned projects",
+          "Provide mentorship for the other electrical engineers in our High Voltage/Power team",
+          "Working with Project Engineer and Project Manager on developing design schedules and budgets for electrical engineering work activities",
+          "Performing Power system studies and system protection settings coordination on various project",
+          "Generate basis of design documentation for protection settings and relay configurations",
+          "Supporting projects during construction, start-up, and commissioning",
+          "Reviewing engineering work performed by peers",
+          "Attending client meetings",
+          "Occasional travel to client and/or project sites (including data gathering and field walks)",
+          "Mentor early career engineers and facilitate internal training sessions, if requested",
+          "Serves as lead engineer on projects of all sizes",
+          "Senior technical resource may serve as technical advisor for team",
+          "Provides specialized technical input to studies and design for staff's specific area of expertise",
+          "Develops study and design procedures to facilitate high quality cost effective work by others",
+          "Participates in interdisciplinary review of project deliverables",
+          "Develops construction cost estimates and estimates of technical efforts for projects",
+          "Uses expertise in all steps of completing discipline component of PS&E package",
+          "Performs quality control review of design calculations or drawings",
+          "Prepares technical specification sections",
+          "Provides input to the development of engineering budget and schedule to meet requirements"
+        ]
+      }
+    ],
+    "apply_options": [
+      {
+        "title": "AECOM Jobs",
+        "link": "https://aecom.jobs/new-york-ny/protection-and-controls-engineer/E4DBC08B5DA94CBBB091D0E7D73D1054/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "JobGet",
+        "link": "https://www.jobget.com/jobs/job/8dba56d2-6524-43f2-a2d7-fdc25a7f7f64?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Teal",
+        "link": "https://www.tealhq.com/job/protection-and-controls-engineer-p-e_76eda8cb-6e34-4957-a654-08620a8a7106?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "ZipRecruiter",
+        "link": "https://www.ziprecruiter.com/c/AECOM/Job/Protection-and-Controls-Engineer-(P.E.)/-in-New-York,NY?jid=b700bf118faf0c90&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/jobs/view/protection-and-controls-engineer-p-e-at-aecom-4217379112?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Smart Recruiters Jobs",
+        "link": "https://jobs.smartrecruiters.com/AECOM2/744000049282507-protection-and-controls-engineer-p-e-?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "LocalJobs.com",
+        "link": "https://www.localjobs.com/job/new-york-ny-protection-and-controls-engineer-pe-0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Built In",
+        "link": "https://builtin.com/job/protection-and-controls-engineer/4618887?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJQcm90ZWN0aW9uIGFuZCBDb250cm9scyBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IkFFQ09NIiwiYWRkcmVzc19jaXR5IjoiTmV3IFlvcmssIE5ZIiwiaHRpZG9jaWQiOiI5bGVuUkRXNlR4dlRoTkhJQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1RtVjNJRmx2Y21zc1ZXNXBkR1ZrSUZOMFlYUmxjdyJ9"
+  },
+  {
+    "title": "Reliability Engineer",
+    "company_name": "Cushman & Wakefield",
+    "location": "Staten Island, NY",
+    "via": "Cushman & Wakefield Careers",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Engineer&htidocid=KHto-lIhi9BcJmdjAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMvQrCMBAAYFz7CE43ifjTiOCio4jo4KCDOJVLeybR9K7kItT38IHV5Ru_4jMopmeKAW2IIb9hxy4wUYI5HMWCEqbagzDsRVyk4cbn3OnaGNVYOs2YQ13W0hphstKbh1j9U6nHRF3ETNVytejLjt1kvH2pb5FhBFd80j1QbCAwXH4NMRw0IjczON2-aOGxZZcAAAA&shmds=v1_AQbUm954tStgS1gH7aoxoeJGyd_gQumehbMAjh8G-y3NIXpR6Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Engineer&htidocid=KHto-lIhi9BcJmdjAAAAAA%3D%3D",
+    "extensions": [
+      "Full-time",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "detected_extensions": {
+      "schedule_type": "Full-time",
+      "dental_coverage": true,
+      "health_insurance": true,
+      "paid_time_off": true
+    },
+    "description": "Job Title\nReliability EngineerJob Description Summary\nJob Description\n\nOur Purpose:\n\nAt C&W Services, we believe that Better Never Settles. We are committed to fostering a positive impact globally by empowering extraordinary people to deliver remarkable results. Join our team and make a difference.\n\nC&W Services provides compelling benefits, including:\n\u2022 A Safety-First Culture\n\u2022 Dynamic, high-performing environments\n\u2022 Training, Development, and Advancement Opportunities\n\u2022 Weekly Pay\n\u2022 Comprehensive Benefits starting on your first day\n\nAs a Reliability Engineer Leader, you will be instrumental in developing and implementing proactive reliability programs that drive operational excellence. Your expertise will play a crucial role in maximizing the life, reliability, and performance of equipment, ensuring the smooth execution of our North America Customer Fulfillment teams' goals.\n\nKey Responsibilities:\n\u2022 Inventory Management: Manage site Inventory Management System (IMS) Team and ensure effective Critical Spare Parts Management Program is carried out.\n\u2022 Leadership and Direction: Manage the Planner/Schedulers for the Fulfillment Center and facilitate in ensuring the timely completion of all Preventative/Predictive Maintenance tasks.\n\u2022 Team Collaboration: Collaborate with various teams, including Fulfillment Operations, Operations Engineering, and Safety, to optimize building systems, maintenance, and project implementation. The Reliability Engineer will also work closely with the Controls System Engineer (CSE) to develop solutions and improvements that integrate MHE and controls equipment.\n\u2022 Team Development: Aide in the development of the Reliability Team\u2019s career progression and build out necessary succession paths\n\u2022 Data Analysis and Reporting: Conduct deep diving performance metrics/data sets, to identify potential failure modes within the fulfilment center and utilize all Predictive and Precision Maintenance tools available, to engineer out deficiencies.\n\u2022 Lead Root Cause Analysis: Perform Root Cause Analysis and develop and implement Permanent Corrective Action activities at the site\n\u2022 Process Improvement: Engage Amazon Senior Operations personnel to identify process challenges and coordinate workable solutions, to improve upon Overall Equipment Effectiveness\n\u2022 Safety Compliance: Ensure direct reports are carrying out job functions in alignment with Amazon Standards.\n\u2022 Commit to Continuous Education: Act as one of the Fulfillment Center\u2019s Subject Matter Expert (SME) for all Material Handling Equipment (MHE), with comprehensive knowledge of process flow, repair procedures, and technical specifications of MHE equipment.\n\nBasic Qualifications:\n\u2022 5+ years of experience as a Reliability Program Manager or equivalent\n\u2022 5+ years of experience with team management, budget responsibilities, supplier management, problem-solving, and client/ customer relations\n\u2022 Experience with CMMS systems, reporting, and computer software (MS Excel, Word, Office)\n\u2022 Relevant training in MHE, Controls Systems, PIT, and general building operations\n\u2022 Strong communication and presentation/facilitation skills\n\u2022 Strong analytical skills to deep dive into data\n\u2022 Ability to develop and maintain a partnership and communicate effectively, both in writing and verbally with Safety, Operations, Engineering, Sr. Management, peers, contractors and vendors\n\nPreferred Qualifications:\n\u2022 Bachelor\u2019s degree in Electrical or Mechanical Engineering, Engineering Technology, Reliability Engineering or other related engineering or 2+ years of experience\n\u2022 Experience managing teams in an industrial environment containing conveyance, process control and powered trucks preferred\n\u2022 Field service engineering experience\n\u2022 Six Sigma certification from accredited program\n\u2022 Root Cause Analysis formal training and facilitation experience\n\u2022 PMP certification\n\u2022 Electrical and electronic principles\n\u2022 Blueprint and electrical schematic reading\n\u2022 Experience in usage of CMMS programs in support of RCA projects\n\u2022 Preventive maintenance procedures\n\u2022 Industrial electrical\n\u2022 Industrial controls\n\u2022 Industrial robotics\n\nPhysical Demands:\n\u2022 Must have ability to reach overhead, kneel, squat, climb steps/ladders, use an aerial lift, and frequently lift a maximum of 50 lbs. of equipment.\n\u2022 Ability to perform tasks wearing appropriate or required Personal Protective Equipment (PPE), which may include but is not limited to hard hat, face mask, face shield, and composite toe shoes.\n\u2022 Regularly required to crouch or bend and reach to install/move equipment.\n\u2022 Involves movement between departments, floors, and properties to facilitate work, averaging 6 to 12 miles per day.\n\u2022 Work in a warehouse environment with fluctuating temperatures.\n\u2022 Regularly required to type on a computer for 1-2 hours per day.\n\nWhy C&W Services?\n\nWe're a global company with over 400 offices in 60 countries. We're proud of our diverse family of employees and are committed to creating an inclusive workplace. We're recognized by the Human Rights Foundation as a Best Place to Work for LGBTQI+ individuals and are dedicated to continuing to build a culture of inclusion and respect.\n\nBenefits:\n\u2022 Core Benefits: Medical, dental, vision, life and AD&D insurance, disability insurance, wellness program, employee assistance program, and virtual healthcare\n\u2022 Growing Family Benefits: Paid parental leave, emergency backup care\n\u2022 Time Off: Paid time off, sick time, and holidays\n\u2022 Retirement: 401(k) match with immediate vesting\n\u2022 Supplemental Medical Benefits: Critical illness insurance, accidental insurance, hospital indemnity insurance\n\u2022 Pre-Tax Benefits: Commuter benefits, HSA, FSA\n\u2022 Home & Family Protection: Auto & home insurance, legal benefits, identity theft protection, pet insurance\n\nWhat\u2019s Next?\n\nReady to elevate your career? Apply today and be part of a team dedicated to safety, excellence, and making a difference!\n\nCushman & Wakefield also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health, vision, and dental insurance, flexible spending accounts, health savings accounts, retirement savings plans, life, and disability insurance programs, and paid and unpaid time away from work. In addition to a comprehensive benefits package, Cushman and Wakefield provide eligible employees with competitive pay, which may vary depending on eligibility factors such as geographic location, date of hire, total hours worked, job type, business line, and applicability of collective bargaining agreements.\nThe compensation that will be offered to the successful candidate will depend on factors such as whether the position is covered by a collective bargaining agreement, the geographic area in which the work will be performed, market pay rates in that area, and the candidate\u2019s experience and qualifications.\nThe company will not pay less than minimum wage for this role.\nThe compensation for the position is: $113,900.00 - $134,000.00\n\nC&W Services is an Equal Opportunity employer to all protected groups, including protected veterans and individuals with disabilities. Discrimination of any type will not be tolerated.\n\nIn compliance with the Americans with Disabilities Act Amendments Act (ADAAA), if you have a disability and would like to request an accommodation in order to apply for a position at Cushman & Wakefield, please call the ADA line at 1-888-365-5406 or email HRServices@cushwake.com. Please refer to the job title and job location when you contact us.\nINCO: \u201cC&W Services\u201d",
+    "job_highlights": [
+      {
+        "title": "Qualifications",
+        "items": [
+          "5+ years of experience as a Reliability Program Manager or equivalent",
+          "5+ years of experience with team management, budget responsibilities, supplier management, problem-solving, and client/ customer relations",
+          "Experience with CMMS systems, reporting, and computer software (MS Excel, Word, Office)",
+          "Relevant training in MHE, Controls Systems, PIT, and general building operations",
+          "Strong communication and presentation/facilitation skills",
+          "Strong analytical skills to deep dive into data",
+          "Ability to develop and maintain a partnership and communicate effectively, both in writing and verbally with Safety, Operations, Engineering, Sr",
+          "Must have ability to reach overhead, kneel, squat, climb steps/ladders, use an aerial lift, and frequently lift a maximum of 50 lbs. of equipment",
+          "Ability to perform tasks wearing appropriate or required Personal Protective Equipment (PPE), which may include but is not limited to hard hat, face mask, face shield, and composite toe shoes"
+        ]
+      },
+      {
+        "title": "Benefits",
+        "items": [
+          "A Safety-First Culture",
+          "Dynamic, high-performing environments",
+          "Training, Development, and Advancement Opportunities",
+          "Weekly Pay",
+          "Comprehensive Benefits starting on your first day",
+          "Core Benefits: Medical, dental, vision, life and AD&D insurance, disability insurance, wellness program, employee assistance program, and virtual healthcare",
+          "Growing Family Benefits: Paid parental leave, emergency backup care",
+          "Time Off: Paid time off, sick time, and holidays",
+          "Retirement: 401(k) match with immediate vesting",
+          "Supplemental Medical Benefits: Critical illness insurance, accidental insurance, hospital indemnity insurance",
+          "Pre-Tax Benefits: Commuter benefits, HSA, FSA",
+          "Home & Family Protection: Auto & home insurance, legal benefits, identity theft protection, pet insurance",
+          "Cushman & Wakefield also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health, vision, and dental insurance, flexible spending accounts, health savings accounts, retirement savings plans, life, and disability insurance programs, and paid and unpaid time away from work",
+          "In addition to a comprehensive benefits package, Cushman and Wakefield provide eligible employees with competitive pay, which may vary depending on eligibility factors such as geographic location, date of hire, total hours worked, job type, business line, and applicability of collective bargaining agreements",
+          "The compensation that will be offered to the successful candidate will depend on factors such as whether the position is covered by a collective bargaining agreement, the geographic area in which the work will be performed, market pay rates in that area, and the candidate\u2019s experience and qualifications",
+          "The company will not pay less than minimum wage for this role",
+          "The compensation for the position is: $113,900.00 - $134,000.00"
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "items": [
+          "As a Reliability Engineer Leader, you will be instrumental in developing and implementing proactive reliability programs that drive operational excellence",
+          "Your expertise will play a crucial role in maximizing the life, reliability, and performance of equipment, ensuring the smooth execution of our North America Customer Fulfillment teams' goals",
+          "Inventory Management: Manage site Inventory Management System (IMS) Team and ensure effective Critical Spare Parts Management Program is carried out",
+          "Leadership and Direction: Manage the Planner/Schedulers for the Fulfillment Center and facilitate in ensuring the timely completion of all Preventative/Predictive Maintenance tasks",
+          "Team Collaboration: Collaborate with various teams, including Fulfillment Operations, Operations Engineering, and Safety, to optimize building systems, maintenance, and project implementation",
+          "The Reliability Engineer will also work closely with the Controls System Engineer (CSE) to develop solutions and improvements that integrate MHE and controls equipment",
+          "Team Development: Aide in the development of the Reliability Team\u2019s career progression and build out necessary succession paths",
+          "Data Analysis and Reporting: Conduct deep diving performance metrics/data sets, to identify potential failure modes within the fulfilment center and utilize all Predictive and Precision Maintenance tools available, to engineer out deficiencies",
+          "Lead Root Cause Analysis: Perform Root Cause Analysis and develop and implement Permanent Corrective Action activities at the site",
+          "Process Improvement: Engage Amazon Senior Operations personnel to identify process challenges and coordinate workable solutions, to improve upon Overall Equipment Effectiveness",
+          "Safety Compliance: Ensure direct reports are carrying out job functions in alignment with Amazon Standards",
+          "Commit to Continuous Education: Act as one of the Fulfillment Center\u2019s Subject Matter Expert (SME) for all Material Handling Equipment (MHE), with comprehensive knowledge of process flow, repair procedures, and technical specifications of MHE equipment",
+          "Management, peers, contractors and vendors",
+          "Regularly required to crouch or bend and reach to install/move equipment",
+          "Involves movement between departments, floors, and properties to facilitate work, averaging 6 to 12 miles per day",
+          "Work in a warehouse environment with fluctuating temperatures",
+          "Regularly required to type on a computer for 1-2 hours per day"
+        ]
+      }
+    ],
+    "apply_options": [
+      {
+        "title": "Cushman & Wakefield Careers",
+        "link": "https://careers.cushmanwakefield.com/en/jobs/r261717/reliability-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Indeed",
+        "link": "https://www.indeed.com/viewjob?jk=629ffdd4c198d48d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJSZWxpYWJpbGl0eSBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IkN1c2htYW4gXHUwMDI2IFdha2VmaWVsZCIsImFkZHJlc3NfY2l0eSI6IlN0YXRlbiBJc2xhbmQsIE5ZIiwiaHRpZG9jaWQiOiJLSHRvLWxJaGk5QmNKbWRqQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1RtVjNJRmx2Y21zc1ZXNXBkR1ZrSUZOMFlYUmxjdyJ9"
+  },
+  {
+    "title": "Workday Systems Engineer II",
+    "company_name": "Shutterstock",
+    "location": "New York, NY (+5 others)",
+    "via": "Shutterstock Careers",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Engineer&htidocid=Eqc5xKlwmg-oBBR-AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXOsQrCMBAAUFz7CeJws2giBRedRerQpYN0Kkk8kto0V3Intl_hL6vLm1_xWRXlnfLwMAs0CwuODJfk-4SYoapgDzeywGiyC0AJrkQ-4vocRCY-ac0clWcx0jvlaNSU0NKsn2T5T8fBZJyiEezK42FWU_LbTRNeIphZyA3QJ6jxDe0vsYO6_QIRubf4kgAAAA&shmds=v1_AQbUm94FoN_TxIjIZG7Lxd6cOsmwZe5tqdUMt65TeeRnRQFYaA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Engineer&htidocid=Eqc5xKlwmg-oBBR-AAAAAA%3D%3D",
+    "thumbnail": "https://serpapi.com/searches/683770de31aafe93fb3698be/images/71c6a2a754e42ca3aeb3c4b35c071d01b453ac864df36a2a1f1e14ede3684e0d.jpeg",
+    "extensions": [
+      "7 days ago",
+      "Full-time",
+      "Health insurance"
+    ],
+    "detected_extensions": {
+      "posted_at": "7 days ago",
+      "schedule_type": "Full-time",
+      "health_insurance": true
+    },
+    "description": "Join Shutterstock as a Workday Systems Engineer \u2013 Empower Global Creators Through Technology\n\nThe Opportunity\nAt Shutterstock, we connect a vibrant community of global creators with the brands, agencies, and people who need their work. Our platform fuels inspiration and enables millions to discover new ways of creating. As we continue to grow, we\u2019re looking for people who are passionate about innovation, creativity, and building a better future.\n\nWe\u2019re opening the door to a Workday Systems Engineer who\u2019s ready to shape the backbone of our HR, Finance, and Payroll systems. If you thrive at the intersection of technology and collaboration, and love creating smart, seamless systems that empower people \u2014 this is your moment.\n\nYour Mission\nAs our Workday Systems Engineer, you'll be the architect behind our integrations and security configurations across Workday. You\u2019ll design and maintain secure, efficient workflows that keep our financial and HR systems running smoothly, all while partnering with cross-functional teams to deliver solutions that make a difference.\n\nWhat You\u2019ll Do\n\u2022 Design, build, test, and maintain advanced Workday Studio integrations, including XML transformations\n\u2022 Own Workday Security \u2013 from roles to domain and business process policies\n\u2022 Diagnose and resolve integration and implementation issues with a problem-solving mindset\n\u2022 Lead quality documentation efforts and ensure data consistency across systems\n\u2022 Support regression testing and rollouts for Workday security, integrations, and reporting\n\u2022 Partner closely with IT, Finance, and HR to align technical solutions with business goals\n\u2022 Identify and drive continuous improvements to integration architecture and strategies\n\nWhat You\u2019ll Bring\n\u2022 Bachelor\u2019s or Master\u2019s in Computer Science, Engineering, or a related field\n\u2022 5+ years of hands-on Workday integration experience in a fast-paced environment\n\u2022 Expertise with Workday Studio, XSLT, BIRT, Core Connectors, EIBs, and Document Transformation\n\u2022 Strong experience in Workday Security configuration and maintenance\n\u2022 Sharp analytical thinking with the creativity to troubleshoot and solve complex system issues\n\u2022 A proactive attitude, strong organizational skills, and the ability to juggle multiple priorities\n\u2022 Excellent written and verbal communication skills, with the ability to collaborate across teams and functions\n\nWhy Shutterstock?\nBecause we\u2019re more than just a tech company. We\u2019re a global hub of creators and thinkers who believe in the power of ideas. You\u2019ll have the opportunity to shape systems that impact millions and be part of a supportive team that values innovation, collaboration, and your professional growth.Ready to engineer the future of creative tech?\n\nShutterstock enables its employees to drive culture and tap into the world around them to develop the toolbox and solutions that help others share their world views. At Shutterstock, your ideas will be welcomed, your uniqueness will be celebrated, and you will be supported in presenting your view of the world as you experience it. We\u2019re champions of resiliency; quickly learning from our shortcomings in our pursuit of continuous growth.\n\nDiverse teams are critical to our success. We encourage people from different backgrounds to apply and we commit to creating and maintaining a culture where employees know they belong and have equal opportunities to succeed.\n\nApply now and bring your expertise to Shutterstock!\n\n#LI-Remote\n\n#LI-MS1\n\nAt Shutterstock, we are committed to providing competitive pay and benefits that are in line with industry standards. The compensation package offered may vary depending on employment experience, skills, and knowledge. You may also be eligible for our generous benefits package including health, wellness and financial benefits. Compensation ranges for candidates in locations outside of the location(s) below may differ based on the cost of labor, market, and additional factors.\n\nThe pay range for this position is below:\n\u2022 120,000 - 140,000 per year in New York\n\nNote: Commission-eligible roles are expressed as on-target earnings (base and commission). Non-commission roles are expressed as base salary only but are also eligible for annual incentives.\n\nShutterstock Values\n\nWe are one team collectively focused on creating an unrivaled experience for our Customers and Contributors. Our Values represent the mindset of the employee who will thrive at Shutterstock. If you are passionate about what you do, and want to become part of a cutting-edge technology company building industry leading products, please apply.\n\nShutterstock is an Equal Opportunity Employer. Suitably qualified and eligible candidates are encouraged to apply regardless of age, color, disability, national origin, ancestry, race, religion, gender, sexual orientation, gender identity and/or expression, veteran status, genetic information, or any other status protected by applicable law.\n\nShutterstock ensures that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Persons with disabilities who anticipate needing accommodations for any part of the application process may contact, in confidence, accommodation_request@shutterstock.com.\n\nThe referenced salary range is based on the Company\u2019s good faith belief at the time of posting. Actual compensation may vary based on factors such as geographic location, work experience, market conditions, education/training and skill level.",
+    "job_highlights": [
+      {
+        "title": "Qualifications",
+        "items": [
+          "Bachelor\u2019s or Master\u2019s in Computer Science, Engineering, or a related field",
+          "5+ years of hands-on Workday integration experience in a fast-paced environment",
+          "Expertise with Workday Studio, XSLT, BIRT, Core Connectors, EIBs, and Document Transformation",
+          "Strong experience in Workday Security configuration and maintenance",
+          "Sharp analytical thinking with the creativity to troubleshoot and solve complex system issues",
+          "A proactive attitude, strong organizational skills, and the ability to juggle multiple priorities",
+          "Excellent written and verbal communication skills, with the ability to collaborate across teams and functions"
+        ]
+      },
+      {
+        "title": "Benefits",
+        "items": [
+          "At Shutterstock, we are committed to providing competitive pay and benefits that are in line with industry standards",
+          "The compensation package offered may vary depending on employment experience, skills, and knowledge",
+          "You may also be eligible for our generous benefits package including health, wellness and financial benefits",
+          "Compensation ranges for candidates in locations outside of the location(s) below may differ based on the cost of labor, market, and additional factors",
+          "120,000 - 140,000 per year in New York",
+          "Note: Commission-eligible roles are expressed as on-target earnings (base and commission)",
+          "Non-commission roles are expressed as base salary only but are also eligible for annual incentives"
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "items": [
+          "As our Workday Systems Engineer, you'll be the architect behind our integrations and security configurations across Workday",
+          "You\u2019ll design and maintain secure, efficient workflows that keep our financial and HR systems running smoothly, all while partnering with cross-functional teams to deliver solutions that make a difference",
+          "Design, build, test, and maintain advanced Workday Studio integrations, including XML transformations",
+          "Own Workday Security \u2013 from roles to domain and business process policies",
+          "Diagnose and resolve integration and implementation issues with a problem-solving mindset",
+          "Lead quality documentation efforts and ensure data consistency across systems",
+          "Support regression testing and rollouts for Workday security, integrations, and reporting",
+          "Partner closely with IT, Finance, and HR to align technical solutions with business goals",
+          "Identify and drive continuous improvements to integration architecture and strategies"
+        ]
+      }
+    ],
+    "apply_options": [
+      {
+        "title": "Shutterstock Careers",
+        "link": "https://careers.shutterstock.com/us/en/job/R0002940/Workday-Systems-Engineer-II?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJXb3JrZGF5IFN5c3RlbXMgRW5naW5lZXIgSUkiLCJjb21wYW55X25hbWUiOiJTaHV0dGVyc3RvY2siLCJhZGRyZXNzX2NpdHkiOiJOZXcgWW9yaywgTlkiLCJodGlkb2NpZCI6IkVxYzV4S2x3bWctb0JCUi1BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXVG1WM0lGbHZjbXNzVlc1cGRHVmtJRk4wWVhSbGN3In0="
+  },
+  {
+    "title": "Senior Software Engineer \u2013 Network Reliability Engineering",
+    "company_name": "The Trade Desk",
+    "location": "New York, NY (+1 other)",
+    "via": "The Trade Desk",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Engineer&htidocid=px8jfKdy1HbLb2cNAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_z2OMQrCQBAAsc0TLGRr0ZwINtoqgkUKkyZVuMT17sy5G24PEjv_4E98ki8xNjZTDcwk70mS50iOA-R8jb0OCAcyjhADfJ4vyDD2HFo4o3e6dt7Fx19wZGAJJ65BUIfGAhMcmY3H6c7G2MlWKRGfGok6uiZt-K6YsOZB3biWHyqxY7LzOmK13qyGtCMznxUWoQj6grBHacHRuNFDOX4sICu_yPKMi7UAAAA&shmds=v1_AQbUm94a10UY_db0f4gxytAK9nCSDfd1KRXRG5tO7NIvPUc0_Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Engineer&htidocid=px8jfKdy1HbLb2cNAAAAAA%3D%3D",
+    "extensions": [
+      "Full-time",
+      "Dental insurance",
+      "Health insurance",
+      "Paid time off"
+    ],
+    "detected_extensions": {
+      "schedule_type": "Full-time",
+      "dental_coverage": true,
+      "health_insurance": true,
+      "paid_time_off": true
+    },
+    "description": "The Trade Desk is a global technology company with a mission to create a better, more open internet for everyone through principled, intelligent advertising. Handling over 1 trillion queries per day, our platform operates at an unprecedented scale. We have also built something even stronger and more valuable: an award-winning culture based on trust, ownership, empathy, and collaboration. We value the unique experiences and perspectives that each person brings to The Trade Desk, and we are committed to fostering inclusive spaces where everyone can bring their authentic selves to work every day.\n\nThe Trade Desk Network Team partners closely with application development, Data Center Engineering, and SRE teams to provide a software-first networking platform supporting a global advertising technology stack at massive scale. We're seeking passionate technologists who thrive in complex, high-throughput environments and are excited to build scalable, resilient systems.\n\nDo you have a passion for solving hard problems at scale? Are you eager to join a dynamic, globally- connected team where your contributions will make a meaningful difference in building a better media ecosystem? Come and see why Fortune magazine consistently ranks The Trade Desk among the best small- to medium-sized workplaces globally.\n\nAbout the role:\n\u2022 Design, build, and scale a global network platform across physical data centers and multi-cloud environments (AWS, Azure, Alibaba Cloud).\n\u2022 Support thousands of hosts globally, addressing petabyte-scale data challenges with efficient, reliable network solutions.\n\u2022 Troubleshoot and resolve complex network issues, ensuring high availability and performance across our infrastructure.\n\u2022 Drive root cause analysis and postmortems to foster continuous operational improvements.\n\u2022 Automate repetitive tasks, streamline workflows, and eliminate manual toil by developing tools and improving processes.\n\u2022 Participate in a global on-call rotation to maintain network integrity 24/7.\n\nWho you are:\n\u2022 Software-first mindset with strong development and networking experience\u2014able to think like an engineer and operate like an architect.\n\u2022 Deep expertise in TCP/IP, the OSI model, and IP networking protocols (BGP, OSPF, etc.) for large-scale environments.\n\u2022 Experienced in Kubernetes networking, including technologies such as Cilium and Calico, with a deep understanding of container network interfaces (CNIs).\n\u2022 Skilled in troubleshooting and performance tuning within Kubernetes and Docker environments, particularly in relation to networking components.\n\u2022 Proficient in advanced networking technologies such as:\n\u2022 IPv6 configuration and transition strategies.\n\u2022 RSVP (Resource Reservation Protocol) for QoS and bandwidth management.\n\u2022 Software-Defined Networking (SDN) and experience with SDN controllers.\n\u2022 Quality of Service (QoS) implementations.\n\u2022 Hands-on with network operating systems like Cumulus Linux, SONiC, Cisco IOS, and Junos.\n\u2022 Familiarity with monitoring and alerting systems, utilizing complex rules and time-series queries (e.g., Prometheus, Grafana).\n\u2022 Experience with infrastructure-as-code and DevOps principles for building and managing networks programmatically.\n\u2022 Interest or background in platform engineering; able to plan and build infrastructure to support large-scale, distributed applications.\n\nKey Attributes:\n\u2022 Technical Contributions:\n\u2022 Demonstrated experience in building resilient, always-on networks across diverse technologies and layers.\n\u2022 Data-driven decision-maker: evaluates ROI, implementation complexity, and customer impact.\n\u2022 Operationally savvy: reduces complexity, mitigates risk, and ensures cost-effective scaling.\n\u2022 Track record of self-directed contributions to high-impact, large-scale projects.\n\u2022 Collaboration and Communication:\n\u2022 Strong communication and documentation skills\u2014able to effectively share insights and drive alignment.\n\u2022 Empathetic and critical thinker: understands the broader context and motivations behind objectives.\n\u2022 Highly collaborative team player: communicates effectively across engineering disciplines to achieve unified goals.\n\nVariety of technical opportunity is one of the best things about working at The Trade Desk as a software engineer which is why we do not expect you to know every technology we use when you start. What we care about is that you can learn quickly and find solutions to complex problems using the optimum tools for the job.\u202fWhat you know is less important than how well you learn and innovate. We don't need engineers who know all the answers; we need engineers who can invent the answers no one has thought of yet, to the questions yet to be asked.\u202f\n\nThe Trade Desk does not accept unsolicited resumes from search firm recruiters. Fees will not be paid in the event a candidate submitted by a recruiter without an agreement in place is hired; such resumes will be deemed the sole property of The Trade Desk. The Trade Desk is an equal opportunity employer. All aspects of employment will be based on merit, competence, performance, and business needs. We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law.\n\n#LI-AD1\n\nCO, CA, IL, NY, WA, and Washington DC residents only: In accordance with CO, CA, IL, NY, WA, and Washington DC law, the range provided is The Trade Desk's reasonable estimate of the base compensation for this role. The actual amount may differ based on non-discriminatory factors such as experience, knowledge, skills, abilities, and location. All employees may be eligible to become The Trade Desk shareholders through eligibility for stock-based compensation grants, which are awarded to employees based on company and individual performance. The Trade Desk also offers other compensation depending on the role such as sales-based incentives and commissions. Plus, expected benefits for this role include comprehensive healthcare (medical, dental, and vision) with premiums paid in full for employees and dependents, retirement benefits such as a 401k plan and company match, short and long-term disability coverage, basic life insurance, well-being benefits, reimbursement for certain tuition expenses, parental leave, sick time of 1 hour per 30 hours worked, vacation time for full-time employees up to 120 hours thru the first year and 160 hours thereafter, and around 13 paid holidays per year. Employees can also purchase The Trade Desk stock at a discount through The Trade Desk\u2019s Employee Stock Purchase Plan.\n\nThe Trade Desk also offers a competitive benefits package. Click here to learn more.\n\nNote: Interns are not eligible for variable incentive awards such as stock-based compensation, retirement plan, vacation, tuition reimbursement or parental leave\nAt the Trade Desk, Base Salary is one part of our competitive total compensation and benefits package and is determined using a salary range. The base salary range for this role is $124,900\u2014$228,900 USD\n\nAs an Equal Opportunity Employer, The Trade Desk is committed to making our job application process accessible to everyone and to providing reasonable accommodations for applicants with disabilities. If you have a disability or medical condition and require an accommodation for any part of the application or hiring process, please contact us at accommodations@thetradedesk.com\n\nYou can also contact us using the same email address if you have a disability and need assistance to access our Company website.\n\nWhen contacting us, please provide your contact information and specify the nature of your accessibility issue.",
+    "job_highlights": [
+      {
+        "title": "Qualifications",
+        "items": [
+          "Software-first mindset with strong development and networking experience\u2014able to think like an engineer and operate like an architect",
+          "Deep expertise in TCP/IP, the OSI model, and IP networking protocols (BGP, OSPF, etc.) for large-scale environments",
+          "Experienced in Kubernetes networking, including technologies such as Cilium and Calico, with a deep understanding of container network interfaces (CNIs)",
+          "Skilled in troubleshooting and performance tuning within Kubernetes and Docker environments, particularly in relation to networking components",
+          "Proficient in advanced networking technologies such as:",
+          "IPv6 configuration and transition strategies",
+          "Software-Defined Networking (SDN) and experience with SDN controllers",
+          "Quality of Service (QoS) implementations",
+          "Hands-on with network operating systems like Cumulus Linux, SONiC, Cisco IOS, and Junos",
+          "Familiarity with monitoring and alerting systems, utilizing complex rules and time-series queries (e.g., Prometheus, Grafana)",
+          "Experience with infrastructure-as-code and DevOps principles for building and managing networks programmatically",
+          "Interest or background in platform engineering; able to plan and build infrastructure to support large-scale, distributed applications",
+          "Demonstrated experience in building resilient, always-on networks across diverse technologies and layers",
+          "Data-driven decision-maker: evaluates ROI, implementation complexity, and customer impact",
+          "Collaboration and Communication:",
+          "Strong communication and documentation skills\u2014able to effectively share insights and drive alignment",
+          "Empathetic and critical thinker: understands the broader context and motivations behind objectives",
+          "Highly collaborative team player: communicates effectively across engineering disciplines to achieve unified goals"
+        ]
+      },
+      {
+        "title": "Benefits",
+        "items": [
+          "CO, CA, IL, NY, WA, and Washington DC residents only: In accordance with CO, CA, IL, NY, WA, and Washington DC law, the range provided is The Trade Desk's reasonable estimate of the base compensation for this role",
+          "All employees may be eligible to become The Trade Desk shareholders through eligibility for stock-based compensation grants, which are awarded to employees based on company and individual performance",
+          "The Trade Desk also offers other compensation depending on the role such as sales-based incentives and commissions",
+          "Plus, expected benefits for this role include comprehensive healthcare (medical, dental, and vision) with premiums paid in full for employees and dependents, retirement benefits such as a 401k plan and company match, short and long-term disability coverage, basic life insurance, well-being benefits, reimbursement for certain tuition expenses, parental leave, sick time of 1 hour per 30 hours worked, vacation time for full-time employees up to 120 hours thru the first year and 160 hours thereafter, and around 13 paid holidays per year",
+          "Employees can also purchase The Trade Desk stock at a discount through The Trade Desk\u2019s Employee Stock Purchase Plan",
+          "The Trade Desk also offers a competitive benefits package",
+          "Note: Interns are not eligible for variable incentive awards such as stock-based compensation, retirement plan, vacation, tuition reimbursement or parental leave",
+          "At the Trade Desk, Base Salary is one part of our competitive total compensation and benefits package and is determined using a salary range",
+          "The base salary range for this role is $124,900\u2014$228,900 USD"
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "items": [
+          "Design, build, and scale a global network platform across physical data centers and multi-cloud environments (AWS, Azure, Alibaba Cloud)",
+          "Support thousands of hosts globally, addressing petabyte-scale data challenges with efficient, reliable network solutions",
+          "Troubleshoot and resolve complex network issues, ensuring high availability and performance across our infrastructure",
+          "Drive root cause analysis and postmortems to foster continuous operational improvements",
+          "Automate repetitive tasks, streamline workflows, and eliminate manual toil by developing tools and improving processes",
+          "Participate in a global on-call rotation to maintain network integrity 24/7",
+          "RSVP (Resource Reservation Protocol) for QoS and bandwidth management",
+          "Operationally savvy: reduces complexity, mitigates risk, and ensures cost-effective scaling",
+          "Track record of self-directed contributions to high-impact, large-scale projects"
+        ]
+      }
+    ],
+    "apply_options": [
+      {
+        "title": "The Trade Desk",
+        "link": "https://careers.thetradedesk.com/jobs/4687122007/senior-software-engineer-network-reliability-engineering?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Wellfound",
+        "link": "https://wellfound.com/jobs/3252375-senior-software-engineer-network-reliability-engineering?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Built In",
+        "link": "https://builtin.com/job/senior-software-engineer-network-reliability-engineering/4507556?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "ClickaJobs",
+        "link": "https://www.clickajobs.com/gfj/286687713?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "WhatJobs",
+        "link": "https://www.whatjobs.com/gfj/1990367131?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Blind",
+        "link": "https://www.teamblind.com/jobs/167961626?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Recruit.net",
+        "link": "https://www.recruit.net/job/junior-risk-engineer-jobs/8212FB041E22B6C4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIg4oCTIE5ldHdvcmsgUmVsaWFiaWxpdHkgRW5naW5lZXJpbmciLCJjb21wYW55X25hbWUiOiJUaGUgVHJhZGUgRGVzayIsImFkZHJlc3NfY2l0eSI6Ik5ldyBZb3JrLCBOWSIsImh0aWRvY2lkIjoicHg4amZLZHkxSGJMYjJjTkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdUbVYzSUZsdmNtc3NWVzVwZEdWa0lGTjBZWFJsY3cifQ=="
+  },
+  {
+    "title": "Principal Software Engineer - JAVA (New Jersey based Hybrid)",
+    "company_name": "Citizens Bank, N.A.",
+    "location": "Iselin, NJ (+2 others)",
+    "via": "Citizens Bank",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Engineer&htidocid=ylQu3YoRy5yKTWIxAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBAAsfUJVmunohcRbLSKImoKEQK2chfXZPXcDbcHif7L_xmbgYGB6X97_fwciAuqrYdc7rGxAWHHJTFigBlk6SWF0QkbyDAovsFZxRsc3i7QbfwPxIGiDUUFwrAXKT0O1lWMta6SRNWbUqONVJhCXokwOmmThzj946pV96u9jXhdLOetqbmcDLcU6YOssLH8nMLJpAaI4ajoiTvPfsZip9W4AAAA&shmds=v1_AQbUm972uEmxaQk5g3AkfQMofx-XE67BqzQocCJ7nOSj-qEZxw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Engineer&htidocid=ylQu3YoRy5yKTWIxAAAAAA%3D%3D",
+    "extensions": [
+      "7 days ago",
+      "Full-time",
+      "Health insurance",
+      "Paid time off",
+      "Dental insurance"
+    ],
+    "detected_extensions": {
+      "posted_at": "7 days ago",
+      "schedule_type": "Full-time",
+      "health_insurance": true,
+      "paid_time_off": true,
+      "dental_coverage": true
+    },
+    "description": "Description\n\n3 Days Hybrid from any of our locations in Iselin NJ , Johnston, RI or Phoenix, AZ\n\nRole is not relocation eligible.\n\nResponsibilities\n\u2022 Your role as Principal of Software Engineering is to work with engineering teams and architecture to produce high-quality technology solutions. You will be given the autonomy to lead, design and develop innovative solutions to some of the biggest technical issues facing the banking industry. As Principal, you will serve as a peer-leader tasked with pursuing cutting-edge initiatives and solutions. The breadth of Citizens operations ensures a diversity of projects as the bank pivots towards innovation and customer experience.\n\u2022 The Principal Software Engineer will be responsible for:\n\u2022 Participating in an environment rapidly transforming to the Agile methodology, adhering to best practices and collaborating effectively with your team mates.\n\u2022 Collaborating and contributing insight to solution design ideation, ensuring both the success of the product and adherence to enterprise architecture principles.\n\u2022 Designing, modifying, developing and implementing software solutions. Building modern, architecturally sound components, tools and applications to meet mission-driven strategic business goals.\n\u2022 Infusing quality of service characteristics, such as scalability, manageability and maintainability, into distributed service-based framework to create or expand business or technical capabilities.\n\u2022 Employing industry best practices to evaluate, correct and prevent vulnerabilities during the software development process.\n\u2022 Serving as a peer-leader, encouraging a culture of innovation and accountability while adhering to Agile best practices.\n\nRequired Qualifications\n\u2022 7+ years of hands-on software development, with proven experience in developing and supporting commercial software products which were sold to non-technical customers in vertical markets\n\u2022 Demonstrated ability to lead and mentor software engineers\n\u2022 5+ years experience in querying, analyzing and managing big data\n\u2022 Mastery of multiple programming languages, including at least one front end framework (Angular/React/Vue), such as Python3, Java, JavaScript, Ruby, Golang, C, C++, etc.\n\u2022 AWS/AZURE/GCP experience, including managing sensitive assets\n\u2022 Bash and Linux experience\n\u2022 Experience with CICD pipeline (CircleCI, Jenkins, or equivalent)\n\u2022 Strong communication (both oral and written) and interpersonal skills\n\u2022 Cloud certifications such as AWS Solutions Architect\n\u2022 Well versed with Algorithms ,Data structures and Object oriented programming concepts.\n\u2022 Well versed with Data engineering concepts, familiarity with Machine learning and Deep learning concepts.\n\u2022 \u2022\u00b7 Understand data structure concepts such as linked lists, dictionaries, arrays, custom object creation, etc.\n\nDesired Qualifications\n\u2022 3+ years of experience in the financial services industry, developing solutions for consumer banking, portfolio management, trading, compliance or wealth management\n\u2022 Understanding of banking system and custodial and consumer banking operations\n\u2022 Experience with Apache, Lucene, Memcache,RAbbitMQand NoSQL.\n\nEducation and Certifications\n\u2022 Required: Bachelor's degree in Software Engineering, Computer Science, Engineering, Mathematics or related discipline\n\u2022 Preferred: Master's degree in Software Engineering, Computer Science or related discipline\n\nPay Transparency\n\nThe salary range for this position is $ 127,520 - $ 191,280 .per year plus an opportunity to earn an annual discretionary bonus. Actual pay is based on various factors including but not limited to the work location, and relevant skills and experience.\n\nWe offer competitive pay, comprehensive medical, dental and vision coverage, retirement benefits, maternity/paternity leave, flexible work arrangements, education reimbursement, wellness programs and more. Note, Citizens\u2019 paid time off policy exceeds the mandatory, paid sick or paid time-away policy of very local and state jurisdiction in the United States. For an overview of our benefits, visit https://jobs.citizensbank.com/benefits.\n\nSome job boards have started using jobseeker-reported data to estimate salary ranges for roles. If you apply and qualify for this role, a recruiter will discuss accurate pay guidance.\n\nEqual Employment Opportunity\n\nCitizens, its parent, subsidiaries, and related companies (Citizens) provide equal employment and advancement opportunities to all colleagues and applicants for employment without regard to age, ancestry, color, citizenship, physical or mental disability, perceived disability or history or record of a disability, ethnicity, gender, gender identity or expression, genetic information, genetic characteristic, marital or domestic partner status, victim of domestic violence, family status/parenthood, medical condition, military or veteran status, national origin, pregnancy/childbirth/lactation, colleague\u2019s or a dependent\u2019s reproductive health decision making, race, religion, sex, sexual orientation, or any other category protected by federal, state and/or local laws. At Citizens, we are committed to fostering an inclusive culture that enables all colleagues to bring their best selves to work every day and everyone is expected to be treated with respect and professionalism. Employment decisions are based solely on merit, qualifications, performance and capability.",
+    "job_highlights": [
+      {
+        "title": "Qualifications",
+        "items": [
+          "7+ years of hands-on software development, with proven experience in developing and supporting commercial software products which were sold to non-technical customers in vertical markets",
+          "Demonstrated ability to lead and mentor software engineers",
+          "5+ years experience in querying, analyzing and managing big data",
+          "Mastery of multiple programming languages, including at least one front end framework (Angular/React/Vue), such as Python3, Java, JavaScript, Ruby, Golang, C, C++, etc",
+          "AWS/AZURE/GCP experience, including managing sensitive assets",
+          "Bash and Linux experience",
+          "Experience with CICD pipeline (CircleCI, Jenkins, or equivalent)",
+          "Strong communication (both oral and written) and interpersonal skills",
+          "Cloud certifications such as AWS Solutions Architect",
+          "Well versed with Algorithms ,Data structures and Object oriented programming concepts",
+          "Well versed with Data engineering concepts, familiarity with Machine learning and Deep learning concepts",
+          "\u2022\u00b7 Understand data structure concepts such as linked lists, dictionaries, arrays, custom object creation, etc",
+          "Required: Bachelor's degree in Software Engineering, Computer Science, Engineering, Mathematics or related discipline"
+        ]
+      },
+      {
+        "title": "Benefits",
+        "items": [
+          "The salary range for this position is $ 127,520 - $ 191,280 .per year plus an opportunity to earn an annual discretionary bonus",
+          "Actual pay is based on various factors including but not limited to the work location, and relevant skills and experience",
+          "We offer competitive pay, comprehensive medical, dental and vision coverage, retirement benefits, maternity/paternity leave, flexible work arrangements, education reimbursement, wellness programs and more",
+          "Note, Citizens\u2019 paid time off policy exceeds the mandatory, paid sick or paid time-away policy of very local and state jurisdiction in the United States"
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "items": [
+          "Your role as Principal of Software Engineering is to work with engineering teams and architecture to produce high-quality technology solutions",
+          "You will be given the autonomy to lead, design and develop innovative solutions to some of the biggest technical issues facing the banking industry",
+          "As Principal, you will serve as a peer-leader tasked with pursuing cutting-edge initiatives and solutions",
+          "The breadth of Citizens operations ensures a diversity of projects as the bank pivots towards innovation and customer experience",
+          "The Principal Software Engineer will be responsible for:",
+          "Participating in an environment rapidly transforming to the Agile methodology, adhering to best practices and collaborating effectively with your team mates",
+          "Collaborating and contributing insight to solution design ideation, ensuring both the success of the product and adherence to enterprise architecture principles",
+          "Designing, modifying, developing and implementing software solutions",
+          "Building modern, architecturally sound components, tools and applications to meet mission-driven strategic business goals",
+          "Infusing quality of service characteristics, such as scalability, manageability and maintainability, into distributed service-based framework to create or expand business or technical capabilities",
+          "Employing industry best practices to evaluate, correct and prevent vulnerabilities during the software development process",
+          "Serving as a peer-leader, encouraging a culture of innovation and accountability while adhering to Agile best practices"
+        ]
+      }
+    ],
+    "apply_options": [
+      {
+        "title": "Citizens Bank",
+        "link": "https://jobs.citizensbank.com/job/iselin/principal-software-engineer-java-new-jersey-based-hybrid/288/81582946736?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "ZipRecruiter",
+        "link": "https://www.ziprecruiter.com/c/Citizens/Job/Principal-Software-Engineer-JAVA-(New-Jersey-based-Hybrid)/-in-Phoenix,AZ?jid=c58138f159798eef&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Experteer",
+        "link": "https://us.experteer.com/career/view-jobs/principal-software-engineer-java-new-jersey-based-hybrid-phoenix-az-usa-51790522?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Monster",
+        "link": "https://www.monster.com/job-openings/principal-software-engineer-java-new-jersey-based-hybrid-phoenix-az--3e528729-430e-4786-bf48-445761199ea3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Ladders",
+        "link": "https://www.theladders.com/job/principal-software-engineer-java-new-jersey-based-hybrid-citizensfinancialgroupinc-phoenix-az_81623770?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Emplois Chez SCI - Service Corporation International",
+        "link": "https://emplois.sci-corp.com/phoenix-az/principal-software-engineer-java-new-jersey-based-hybrid/15C27F3691854B9388B45A9F28CD9DDE/job/?vs=28&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Towards AI Jobs",
+        "link": "https://jobs.towardsai.net/job/citizens-principal-software-engineer-java-new-jersey-based-hybrid-h3c7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Adzuna",
+        "link": "https://www.adzuna.com/details/5214539555?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgU29mdHdhcmUgRW5naW5lZXIgLSBKQVZBIChOZXcgSmVyc2V5IGJhc2VkIEh5YnJpZCkiLCJjb21wYW55X25hbWUiOiJDaXRpemVucyBCYW5rLCBOLkEuIiwiYWRkcmVzc19jaXR5IjoiSXNlbGluLCBOSiIsImh0aWRvY2lkIjoieWxRdTNZb1J5NXlLVFdJeEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdUbVYzSUZsdmNtc3NWVzVwZEdWa0lGTjBZWFJsY3cifQ=="
+  },
+  {
+    "title": "Mid-Level / Senior Coastal Engineer",
+    "company_name": "Jacobs",
+    "location": "New York, NY",
+    "via": "LinkedIn",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Engineer&htidocid=rxBz5OqbIr5Vj-6hAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVz7AA5ON4tNRHCpo4hQtItTp5LEI43Gu5AL2tfwja3Lv3z81XdRNddwry_4xggabkiBMxzZSDERTuQDIWaooWULgia7EZjgzOwjrg5jKUkarUWi8vNSglOOX5oJLU_6wVb-GWQ0GVM0BYfdfjupRH69bI2bHQJBhx_oOT830PU_DiWfcpQAAAA&shmds=v1_AQbUm94XHDnsfxu1aPq9OHmR6-8PZNWxrG18BWwJ03JgyDjb-Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Engineer&htidocid=rxBz5OqbIr5Vj-6hAAAAAA%3D%3D",
+    "thumbnail": "https://serpapi.com/searches/683770de31aafe93fb3698be/images/71c6a2a754e42ca3b8eb7a064c20d48f9619cf7a05b8d9d4f9a155fb6aa2da61.jpeg",
+    "extensions": [
+      "7 days ago",
+      "150K\u2013200K a year",
+      "Full-time",
+      "Health insurance",
+      "Paid time off",
+      "Dental insurance"
+    ],
+    "detected_extensions": {
+      "posted_at": "7 days ago",
+      "salary": "150K\u2013200K a year",
+      "schedule_type": "Full-time",
+      "health_insurance": true,
+      "paid_time_off": true,
+      "dental_coverage": true
+    },
+    "description": "At Jacobs, we're challenging today to reinvent tomorrow by solving the world's most critical problems for thriving cities, resilient environments, mission-critical outcomes, operational advancement, scientific discovery and cutting-edge manufacturing, turning abstract ideas into realities that transform the world for good.\n\nYour impact\n\nOur North America coastal practice is growing. We are seeking enthusiastic and dynamic individuals who want to deliver challenging projects that make a difference to our coastal communities. You will join an established and thriving coastal practice within Jacobs and works on projects regionally and across the globe that will help protect coastal communities, enhance resilience to the effects of coastal flooding and climate change, and minimize impacts to the environment. Our coastal practice focuses on the design of coastal management structures, numerical modeling studies, regional resiliency projects, port and waterfront development projects, and mitigating the impacts of climate change for a range of public and private sector clients.\n\nYou will have the chance to participate and lead in the delivery of our wide-ranging portfolio of port, coastal and maritime projects and work as part of an integrated and forward-thinking team. As a key member of our growing coastal group, you will be an integral part of our plan to continue expanding our business and help make Jacobs the industry leader in coastal services worldwide. If you would like to be part of a world class international consultancy and want to learn from the best in the industry please get in touch.\n\nExperience in one or more of the following is preferable\n\u2022 Coastal structures design (breakwaters, nature-based solutions, revetments, scour protection)\n\u2022 Numerical modelling of coastal processes (wave transformation and penetration, hydrodynamics and sediment transport)\n\u2022 CFD modelling\n\u2022 Vessel navigation and mooring studies\n\u2022 Planning and execution of field measurements\n\u2022 Programming (R, VBA, Matlab)\n\u2022 Machine learning techniques\n\u2022 Good communication and writing skills\n\nWe value collaboration and believe that in-person interactions are crucial for both our culture and client delivery. We empower employees with our hybrid working policy, allowing them to split their work week between Jacobs offices/projects and remote locations enabling them to deliver their best work.\n\nHere's what you'll need\n\u2022 Master\u2019s Degree in coastal engineering, applied ocean engineering or related field is required.\n\u2022 Demonstrated ability to lead coastal design and/or modelling tasks or projects.\n\u2022 Professional Engineer (PE) License or ability to obtain within a year.\n\u2022 Good understanding of design and construction principles of coastal structures.\n\u2022 Experience with coastal numerical modeling tools such as DHI MIKE 21/3 suite of programs, Delft3D, USACE codes such as CMS and SBEACH and/or other\n\u2022 Experience in ACAD, Civil3D is highly desirable.\n\u2022 Proven ability to work collaboratively on multi-disciplinary teams.\n\u2022 Must also be a highly motivated, hard worker capable of working independently and in a team, proactive, and can-do attitude.\n\nPosted Salary Range Minimum\n\n150,000.00\n\nPosted Salary Range Upper\n\n200,000.00\n\nJacobs\u2019 health and welfare benefits are designed to invest in you, and in the things you care about. Your health. Your well-being. Your security. Your future. Employees have access to medical, dental, vision, and basic life insurance, a 401(k) plan, and the ability to purchase company stock at a discount. Eligible employees may also enroll in a deferred compensation plan or the Executive Deferral Plan. Jacobs has an unlimited U.S. Personalized Paid Time Off (PPTO) policy for full-time salaried/exempt employees, seven paid holidays, one floating holiday, and caregiver leave. And certain roles may be eligible for additional rewards, including merit increases, performance discretionary bonus, and stock.\n\nThe base salary range for this position is $150,000.00 to $200,000.00. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training.\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.",
+    "job_highlights": [
+      {
+        "title": "Qualifications",
+        "items": [
+          "Coastal structures design (breakwaters, nature-based solutions, revetments, scour protection)",
+          "Vessel navigation and mooring studies",
+          "Planning and execution of field measurements",
+          "Programming (R, VBA, Matlab)",
+          "Machine learning techniques",
+          "Good communication and writing skills",
+          "Master\u2019s Degree in coastal engineering, applied ocean engineering or related field is required",
+          "Demonstrated ability to lead coastal design and/or modelling tasks or projects",
+          "Professional Engineer (PE) License or ability to obtain within a year",
+          "Good understanding of design and construction principles of coastal structures",
+          "Experience with coastal numerical modeling tools such as DHI MIKE 21/3 suite of programs, Delft3D, USACE codes such as CMS and SBEACH and/or other",
+          "Proven ability to work collaboratively on multi-disciplinary teams",
+          "Must also be a highly motivated, hard worker capable of working independently and in a team, proactive, and can-do attitude"
+        ]
+      },
+      {
+        "title": "Benefits",
+        "items": [
+          "Posted Salary Range Minimum",
+          "Posted Salary Range Upper",
+          "Employees have access to medical, dental, vision, and basic life insurance, a 401(k) plan, and the ability to purchase company stock at a discount",
+          "Eligible employees may also enroll in a deferred compensation plan or the Executive Deferral Plan",
+          "Jacobs has an unlimited U.S. Personalized Paid Time Off (PPTO) policy for full-time salaried/exempt employees, seven paid holidays, one floating holiday, and caregiver leave",
+          "And certain roles may be eligible for additional rewards, including merit increases, performance discretionary bonus, and stock",
+          "The base salary range for this position is $150,000.00 to $200,000.00",
+          "Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training"
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "items": [
+          "You will join an established and thriving coastal practice within Jacobs and works on projects regionally and across the globe that will help protect coastal communities, enhance resilience to the effects of coastal flooding and climate change, and minimize impacts to the environment",
+          "Our coastal practice focuses on the design of coastal management structures, numerical modeling studies, regional resiliency projects, port and waterfront development projects, and mitigating the impacts of climate change for a range of public and private sector clients",
+          "You will have the chance to participate and lead in the delivery of our wide-ranging portfolio of port, coastal and maritime projects and work as part of an integrated and forward-thinking team",
+          "As a key member of our growing coastal group, you will be an integral part of our plan to continue expanding our business and help make Jacobs the industry leader in coastal services worldwide",
+          "We value collaboration and believe that in-person interactions are crucial for both our culture and client delivery",
+          "We empower employees with our hybrid working policy, allowing them to split their work week between Jacobs offices/projects and remote locations enabling them to deliver their best work"
+        ]
+      }
+    ],
+    "apply_options": [
+      {
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/jobs/view/mid-level-senior-coastal-engineer-at-jacobs-4234461039?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "SimplyHired",
+        "link": "https://www.simplyhired.com/job/CRuziLkMmaQVYeCKAROPdwUw5mYWDBIUYyduC1Y3C1_gEHXzAJzl3A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Karkidi",
+        "link": "https://www.karkidi.com/job-details/83042-mid-level-senior-coastal-engineer-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Dover App",
+        "link": "https://app.dover.com/apply/tryskylink/fdd5d794-22a9-4a05-ab0a-66cf4363fdac?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Ladders",
+        "link": "https://www.theladders.com/job/senior-refrigeration-engineer-hendersonengineers-new-york-city-ny_80411556?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Experteer",
+        "link": "https://us.experteer.com/career/view-jobs/mid-level-senior-coastal-engineer-10001-new-york-ny-usa-51746434?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Teal",
+        "link": "https://www.tealhq.com/job/mid-level-senior-coastal-engineer_327c3b0c-3eb0-4fd8-b7c8-791135120471?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "GrabJobs",
+        "link": "https://grabjobs.co/us/job/full-time/others/senior-water-hydraulic-engineer-139513147?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJNaWQtTGV2ZWwgLyBTZW5pb3IgQ29hc3RhbCBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IkphY29icyIsImFkZHJlc3NfY2l0eSI6Ik5ldyBZb3JrLCBOWSIsImh0aWRvY2lkIjoicnhCejVPcWJJcjVWai02aEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdUbVYzSUZsdmNtc3NWVzVwZEdWa0lGTjBZWFJsY3cifQ=="
+  },
+  {
+    "title": "Software Development Engineer",
+    "company_name": "INSPYR Solutions",
+    "location": "New York, NY",
+    "via": "INSPYR Solutions",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Engineer&htidocid=hYoanYrMPryf_o4yAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQ6CMBAA0LjyCU43G6XG6KIrxuhAjExMpJCzVMtd0zuFH_F_1eWNL_vMsm3Fdx1tQijwjYHjgKRwJOcJMcEKLtyCoE1dD0xwYnYB54deNcreGJGQO1Grvss7HgwTtjyZB7fyp5H-V8dgFZvNbj3lkdwCzmV1rW9QcXipZxLwBCWOUHN6LqGsvzxuyPKYAAAA&shmds=v1_AQbUm95RZJXuWSIwEo1Z3IuFj05j1D5fCzIEOkbN3yp0QulPqg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Engineer&htidocid=hYoanYrMPryf_o4yAAAAAA%3D%3D",
+    "thumbnail": "https://serpapi.com/searches/683770de31aafe93fb3698be/images/71c6a2a754e42ca34073e5cbd05b256997a00a7a4f7e532270b20fc073bc6518.jpeg",
+    "extensions": [
+      "1 day ago",
+      "Contractor",
+      "Health insurance",
+      "Dental insurance"
+    ],
+    "detected_extensions": {
+      "posted_at": "1 day ago",
+      "schedule_type": "Contractor",
+      "health_insurance": true,
+      "dental_coverage": true
+    },
+    "description": "Title: Software Development Engineer II\n\nLocation: 100% Onsite in New York, NY\n\nDuration: 12-month contract (additional extensions/conversion to FTE possible)\n\nCompensation: $55/hr \u2013 $58/hr\n\nWork Requirements: US Citizen, GC Holders or Authorized to Work in the U.S.\n\nSkillset / Experience:\n\nJob Description: We are looking for a Software Development Engineer who will act as first level support and development for all incoming production software application issues dealing with seller eligibility. Your solutions will impact our customers directly! Primary responsibilities include developing and monitoring solutions, troubleshooting/debugging, implementing fixes for internally developed code (Scala, JAVA), and performing SQL querying. Additional responsibilities include improving our systems that gather metrics on our features, updating, tracking and resolving technical challenges.\n\nGeneral Job Qualifications: The ideal candidate is interested in a career in software development and is looking to utilize and expand their coding skills and gain exposure to a wide variety of software applications. They must be detail oriented, have superior verbal and written communication skills, strong organizational skills, are able to work independently and can maintain professionalism under pressure.\n\nMust-Have Requirements:\n\u2022 BS or higher in Computer Science\n\u2022 3+ years of experience in software development, with strong experience developing in an enterprise environment\n\u2022 Strong experience in Java and Python\n\u2022 Strong expertise in SQL \u2013 ability to write, amend, and analyze complex queries\n\u2022 Experience setting up CICD infrastructure and automated deployments\n\u2022 Strong AWS experience \u2013 S3, SQS/SNS, RDS, EC2\n\u2022 Proven ability to solve ambiguous, complex technical problems; ability to drive tasks through to completion self-sufficiently\n\nPreferred Requirements:\n\u2022 Spark experience\n\nOur benefits package includes:\n\u2022 Comprehensive medical benefits\n\u2022 Dental, vision benefits\n\u2022 401(k) retirement plan\n\u2022 \u2026and much more!\n\nAbout INSPYR Solutions\n\nTechnology is our focus and quality is our commitment. As a national expert in delivering flexible technology and talent solutions, we strategically align industry and technical expertise with our clients\u2019 business objectives and cultural needs. Our solutions are tailored to each client and include a wide variety of professional services, project, and talent solutions. By always striving for excellence and focusing on the human aspect of our business, we work seamlessly with our talent and clients to match the right solutions to the right opportunities. Learn more about us at inspyrsolutions.com.\n\nINSPYR Solutions provides Equal Employment Opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics. In addition to federal law requirements, INSPYR Solutions complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities\n\n25-13043",
+    "job_highlights": [
+      {
+        "title": "Qualifications",
+        "items": [
+          "Work Requirements: US Citizen, GC Holders or Authorized to Work in the U.S",
+          "Job Description: We are looking for a Software Development Engineer who will act as first level support and development for all incoming production software application issues dealing with seller eligibility",
+          "General Job Qualifications: The ideal candidate is interested in a career in software development and is looking to utilize and expand their coding skills and gain exposure to a wide variety of software applications",
+          "They must be detail oriented, have superior verbal and written communication skills, strong organizational skills, are able to work independently and can maintain professionalism under pressure",
+          "BS or higher in Computer Science",
+          "3+ years of experience in software development, with strong experience developing in an enterprise environment",
+          "Strong experience in Java and Python",
+          "Strong expertise in SQL \u2013 ability to write, amend, and analyze complex queries",
+          "Experience setting up CICD infrastructure and automated deployments",
+          "Strong AWS experience \u2013 S3, SQS/SNS, RDS, EC2",
+          "Proven ability to solve ambiguous, complex technical problems; ability to drive tasks through to completion self-sufficiently"
+        ]
+      },
+      {
+        "title": "Benefits",
+        "items": [
+          "Duration: 12-month contract (additional extensions/conversion to FTE possible)",
+          "Compensation: $55/hr \u2013 $58/hr",
+          "Our benefits package includes:",
+          "Comprehensive medical benefits",
+          "Dental, vision benefits",
+          "401(k) retirement plan",
+          "\u2026and much more!"
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "items": [
+          "Your solutions will impact our customers directly!",
+          "Primary responsibilities include developing and monitoring solutions, troubleshooting/debugging, implementing fixes for internally developed code (Scala, JAVA), and performing SQL querying",
+          "Additional responsibilities include improving our systems that gather metrics on our features, updating, tracking and resolving technical challenges"
+        ]
+      }
+    ],
+    "apply_options": [
+      {
+        "title": "INSPYR Solutions",
+        "link": "https://www.inspyrsolutions.com/job/25-13043-software-development-engineer-new-york-ny/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "ZipRecruiter",
+        "link": "https://www.ziprecruiter.com/c/Navik-Solutions/Job/Software-Development-Engineer/-in-Las-Vegas,NV?jid=748fb207ba450900&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Smart Recruiters Jobs",
+        "link": "https://jobs.smartrecruiters.com/NavikSolutions/743999725962240-software-development-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "OPTnation",
+        "link": "https://www.optnation.com/software-development-engineer-job-in-las-vegas-nv-view-jobid-29583?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Notify.careers",
+        "link": "https://notify.careers/postings/c0977d88-bb38-47d4-9bf2-fa44f9c8e6a3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Jobs Trabajo.org",
+        "link": "https://us.trabajo.org/job-3035-9dfc933acf6183cb3ae986faf93c21db?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBEZXZlbG9wbWVudCBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IklOU1BZUiBTb2x1dGlvbnMiLCJhZGRyZXNzX2NpdHkiOiJOZXcgWW9yaywgTlkiLCJodGlkb2NpZCI6ImhZb2FuWXJNUHJ5Zl9vNHlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXVG1WM0lGbHZjbXNzVlc1cGRHVmtJRk4wWVhSbGN3In0="
+  },
+  {
+    "title": "Innovation Engineer, WW AMZL Innovation and Design Engineering",
+    "company_name": "Amazon.com LLC",
+    "location": "New York, NY",
+    "via": "Indeed",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Engineer&htidocid=RS3E4aiFVhmJuTcDAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_03MMQrCQBCFYWxzBAuZWjQrgo1WQUWUmE5CbMImDpvVZCbsLBo8lwc0qbR5zf_xgs8ouByJ-Km9ZYI9GUuIbgZpCtH5GsNf1HSDHYo1P2fJwBxOXICgdmUFPTswmxrHm8r7VtZKidShEd9_lGHJjWLCgjt150KGyaXSDttae8yXq0UXtmSmk6jRb6bBQxxvwRIk-IKM3WMGSfYFbykRarcAAAA&shmds=v1_AQbUm971sAFWvBYPyZ04uz6BpGF4-NCcubytgZcUgMEQWRgSpA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Engineer&htidocid=RS3E4aiFVhmJuTcDAAAAAA%3D%3D",
+    "thumbnail": "https://serpapi.com/searches/683770de31aafe93fb3698be/images/71c6a2a754e42ca30b7445a626653f07be30d166f4a713506d2096d142afac66.jpeg",
+    "extensions": [
+      "106K\u2013185K a year",
+      "Full-time",
+      "Health insurance"
+    ],
+    "detected_extensions": {
+      "salary": "106K\u2013185K a year",
+      "schedule_type": "Full-time",
+      "health_insurance": true
+    },
+    "description": "- BS degree in mechanical engineering or equivalent - 4+ years of working in mechanical engineering or equivalent experience - Experience with prototyping and implementation - SolidWorks or similar CAD experience and understanding of best practices for part design, advanced assemblies, complex configuration management - Hands on experience crafting proof-of-concept models and prototypes - Thorough understanding and use of principals, theories and concepts in mechanical engineering and ability to apply them to product design - Organizational skills and the ability to work well with teams - Experience communicating concepts and writing technical documents - Experience with full lifecycle and proficiency at completing tasks to meet associated milestones - Experience evaluating design, performance and logistical tradeoffs for hardware systems\nAmazon opened its virtual doors in 1995 and strives to be the world\u2019s most customer-centric company, where customers can find and discover anything they might want to buy online. Amazon Logistics (AMZL) is looking to hire an experienced, innovative, hands-on, and customer-obsessed Hardware Development Engineer to lead the development of new mechatronic products to integrate into our Delivery Station of the future. The successful candidate will be a member of the Amazon Logistics Innovation Engineering team and will be responsible to strategize, define and manage the lifecycle of new mechatronic technologies for the AMZL Delivery Stations. This role requires experienced and entrepreneurial minded individuals with combined robotics, engineering, planning and analytical skills. This individual will directly influence the Amazon last mile automation roadmap by partnering with Robotics, SW Tech Teams, Process Engineering teams, Operations, Facilities and Engineering teams to improve our final customer shopping experience. Key job responsibilities As a HDE, you will be a part of the team of experts working on the development of complex mechatronics products. You will own or contribute to the following: * Lead overall end-to-end equipment technology development to move through ideation, development, conceptual design, detail design, testing and on-site implementation. * Write requirements, functional specifications, design verification plans, and functional test procedures * Collect customer needs and feedback from the technologies deployed in the field to propose new solutions and enhancements, * Influence technical and business decisions working through data-driven contributions based on technology tests and validation plans, * Define and track clear project timelines, and manage project budget * Conduct regular progress reviews and reporting * Partner with simulation team for validating new ideas and concepts to optimize current workflows and automate manual process paths * Lead the discussion for scalability strategy of new technologies working with various teams like Engineering, vendors, Supply Chain, Corp Dev, etc. A day in the life You will ideate and bring to life new technologies for AMZL. Your day could include activities ranging from working with new vendors on developing concepts for AMZL with automation and robotics technology, to being in the field and learning the challenges that associates face. You would build and validate prototypes in our Innovation Center to enable fast-design iterations. You will demonstrate through simulation and data the actual benefits of the new technologies integration in the field bringing your entrepreneurial and innovative spirit at disposal of the team. You would write a business case and work with stakeholders to build a case for piloting new technology. You could dive deep into understanding how the tech influences AMZL processes and the associate\u2019s lives. About the team We are a set of diverse individuals who work coherently to solve customer problems with the most innovative solutions. We put heavy emphasis on empowering our employees to maintain work/life harmony. The team works with innovative technologies in the market to bring into AMZL to solve complex technical problems. It\u2019s a fine balance between working on writing strategic business cases and understanding the deep human-machine interfaces.\n\u2022 Knowledge of SolidWorks simulation or Ansys Finite Element analysis tools\n\u2022 Experience in the design of complex mechanical products and equipment at volume\n\u2022 Experience working with interdisciplinary teams to execute product design from concept to production\n\u2022 Experience with the project management of technical projects\n\u2022 Proficiency with Product Lifecycle Management PLM software and ECO\u2019s\n\u2022 MS in Mechanical Engineering\n\u2022 Proficiency with SolidWorks Simulation or Ansys Finite Element Analysis tools\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you\u2019re applying in isn\u2019t listed, please contact your Recruiting Partner.\n\nOur compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $105,600/year in our lowest geographic market up to $185,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.",
+    "apply_options": [
+      {
+        "title": "Indeed",
+        "link": "https://www.indeed.com/viewjob?jk=c29a8b590dd47a72&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "ZipRecruiter",
+        "link": "https://www.ziprecruiter.com/c/Amazon/Job/Innovation-Engineer,-WW-AMZL-Innovation-and-Design-Engineering/-in-New-York,NY?jid=9d7fc7f196fe1df3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Bandana.com",
+        "link": "https://bandana.com/jobs/0a2f8126-0b11-4a33-9ab3-6247932b727b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/jobs/view/innovation-engineer-ww-amzl-innovation-and-design-engineering-at-amazon-4168644600?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "AbilityLinks.org",
+        "link": "https://abilitylinks.org/jobs/120581786-innovation-engineer-ww-amzl-innovation-and-design-engineering?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "AnitaB.org Job Board",
+        "link": "https://jobs.anitab.org/companies/amazon-3-60ad394d-c673-4474-9694-344b0cae748f/jobs/46607308-innovation-engineer-ww-amzl-innovation-and-design-engineering?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Experteer",
+        "link": "https://us.experteer.com/career/view-jobs/innovation-engineer-ww-amzl-innovation-and-design-engineering-10001-new-york-ny-usa-50763836?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "title": "Tech:NYC Job Board",
+        "link": "https://jobs.technyc.org/companies/amazon-3-60ad394d-c673-4474-9694-344b0cae748f/jobs/46607308-innovation-engineer-ww-amzl-innovation-and-design-engineering?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJJbm5vdmF0aW9uIEVuZ2luZWVyLCBXVyBBTVpMIElubm92YXRpb24gYW5kIERlc2lnbiBFbmdpbmVlcmluZyIsImNvbXBhbnlfbmFtZSI6IkFtYXpvbi5jb20gTExDIiwiYWRkcmVzc19jaXR5IjoiTmV3IFlvcmssIE5ZIiwiaHRpZG9jaWQiOiJSUzNFNGFpRlZobUp1VGNEQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1RtVjNJRmx2Y21zc1ZXNXBkR1ZrSUZOMFlYUmxjdyJ9"
+  },
+  {
+    "title": "Cloud Engineer | Hoboken, NJ, USA",
+    "company_name": "Brown Brothers Harriman & Co.",
+    "location": "Hoboken, NJ",
+    "via": "EFinancialCareers",
+    "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Engineer&htidocid=PvVZ_F6wL8DYynI2AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_03OsQrCMBAAUFz7CU43OUhNRBBEJy1i6eAizpLUI4mmdyUXsYO_43-qm8ubX_EeFasq8uMKe3KBEBO8oGbLd6QSjk0J59MWZtCwBUGTWg9McGB2Eccbn3Mva61FonKSTQ6tarnTTGh50De28uMi3iTso8l4WSzng-rJTctd4ifB1-wxCdQmpdAZgglUrCDQf-MD6-HGR6gAAAA&shmds=v1_AQbUm95qF_fanEyL7nIs63qJe3vWstpnj4-i926ZFFFBOEs9Jw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Engineer&htidocid=PvVZ_F6wL8DYynI2AAAAAA%3D%3D",
+    "thumbnail": "https://serpapi.com/searches/683770de31aafe93fb3698be/images/71c6a2a754e42ca308d7296c8dbfc6bbcbf5fde43f469d51716cac8c45fc6e84.png",
+    "extensions": [
+      "24 days ago",
+      "Full-time",
+      "No degree mentioned",
+      "Paid time off",
+      "Health insurance"
+    ],
+    "detected_extensions": {
+      "posted_at": "24 days ago",
+      "schedule_type": "Full-time",
+      "qualifications": "No degree mentioned",
+      "paid_time_off": true,
+      "health_insurance": true
+    },
+    "description": "Cloud Engineer\n\nAt BBH, Partnership is more than a form of ownership-it's our approach to business and relationships. We know that supporting your professional and personal goals is the best way to help our clients and advance our business. We take that responsibility seriously. With a 200-year legacy and a shared passion for what's next, this is the right place to build a fulfilling career.\n\nThe systems infrastructure team is seeking a cloud engineer who will support the design, implementation, and management of our Azure cloud infrastructure. The ideal candidate should have a foundational understanding of cloud computing concepts with experience in Azure services, a passion for learning new technologies, and the ability to work collaboratively in a fast-paced environment.\n\nResponsibilities\n\n\u2022 Assist in the deployment, management, and maintenance of Azure cloud infrastructure, including virtual machines & containers, network, AI services and storage accounts.\n\u2022 Collaborate with infrastructure teams, developers and stakeholders to design and implement scalable, secure solutions on Azure.\n\u2022 Implement automation to provision & manage cloud resources and report on usage. Create and maintain a consistent and repeatable deployment model.\n\u2022 Support the implementation of cloud security best practices and ensure compliance with company policies and industry standards.\nEducation and Qualifications\n\n\u2022 Experience managing Microsoft Azure IaaS, PaaS services and infrastructure.\n\u2022 Familiarity with Azure services such as virtual machines, storage, networking & Express Route.\n\u2022 Strong problem-solving skills and the ability to troubleshoot technical issues.\n\u2022 Excellent communication and teamwork skills, with a willingness to learn and adapt in a collaborative environment.\n\u2022 Knowledge of terraform (or similar), bash/PowerShell scripting and Azure CLI are a plus.\nSalary Range\n\n100,000-145,000\n\nBBH's compensation program includes base salary, discretionary bonuses, and profit-sharing. The anticipated base salary range(s) shown above are only for the indicated location(s) and may differ in other locations due to cost of living and labor considerations. Base salaries may vary based on factors such as skill, experience and qualification for the role. BBH's total rewards package recognizes your contributions with more than just a paycheck-providing you with benefits that enhance your experience at BBH from long-term savings, healthcare, and income protection to professional development opportunities and time off, our programs support your overall well-being.\n\nWe value diverse experiences. We value diverse experiences and transferrable skillsets. If your career hasn't followed a traditional path, includes alternative experiences, or doesn't meet every qualification or skill listed in the job description, please do go ahead and apply.\n\nAbout BBH:\n\nBrown Brothers Harriman (BBH) is a premier global financial services firm, known for premium service, specialist expertise, technology solutions and partnership approach to client management. Across Investor Services and Capital Partners, we work with an enviable roster of sophisticated clients who make BBH their first call when they are tackling their hardest challenges. Delivering for our clients and each other energizes us.\n\nWe believe that how we do our work is just as important as what we do. We are relentless problem solvers who know our best ideas come from collective debate and development-so we are never possessive about our ideas. Every day we come together as a diverse community of smart and caring people to deliver exceptional service and expert advice-creating success that lasts. No matter where you sit in the organization, everyone is empowered to contribute their ideas. BBHers can pick up the phone and call any colleague, and they are happy to help. Expanding your impact beyond your daily role is part of how we operate as trusted partners to one another.\n\nWe believe stability is a competitive advantage, but being stable means having the knowledge, skill, and discipline to evolve, often-pushing the boundaries of innovation. As a private partnership, every investment we make is in the relationships, technologies, products and development we believe are in the long-term interests of our clients and our people. Our long-tenured leaders are experts in their areas and are actively involved in the day-to day business, taking the time to provide guidance and mentoring to build the next generation of BBHers. Because we know, our success begins with yours.\n\nGo to BBH.com to learn more about our rewards and benefits, philanthropy, approach to sustainability or how we support you to thrive personally, physically and financially.\nWe are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, national origin, age, genetic information, creed, marital status, sexual orientation, gender identity, disability status, protected veteran status, or any other protected status under federal, state or local law.",
+    "job_highlights": [
+      {
+        "title": "Qualifications",
+        "items": [
+          "The ideal candidate should have a foundational understanding of cloud computing concepts with experience in Azure services, a passion for learning new technologies, and the ability to work collaboratively in a fast-paced environment",
+          "Experience managing Microsoft Azure IaaS, PaaS services and infrastructure",
+          "Familiarity with Azure services such as virtual machines, storage, networking & Express Route",
+          "Strong problem-solving skills and the ability to troubleshoot technical issues",
+          "Excellent communication and teamwork skills, with a willingness to learn and adapt in a collaborative environment"
+        ]
+      },
+      {
+        "title": "Benefits",
+        "items": [
+          "Salary Range",
+          "BBH's compensation program includes base salary, discretionary bonuses, and profit-sharing",
+          "The anticipated base salary range(s) shown above are only for the indicated location(s) and may differ in other locations due to cost of living and labor considerations",
+          "Base salaries may vary based on factors such as skill, experience and qualification for the role",
+          "BBH's total rewards package recognizes your contributions with more than just a paycheck-providing you with benefits that enhance your experience at BBH from long-term savings, healthcare, and income protection to professional development opportunities and time off, our programs support your overall well-being"
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "items": [
+          "Assist in the deployment, management, and maintenance of Azure cloud infrastructure, including virtual machines & containers, network, AI services and storage accounts",
+          "Collaborate with infrastructure teams, developers and stakeholders to design and implement scalable, secure solutions on Azure",
+          "Implement automation to provision & manage cloud resources and report on usage",
+          "Create and maintain a consistent and repeatable deployment model",
+          "Support the implementation of cloud security best practices and ensure compliance with company policies and industry standards"
+        ]
+      }
+    ],
+    "apply_options": [
+      {
+        "title": "EFinancialCareers",
+        "link": "https://www.efinancialcareers.com/jobs-USA-NJ-Hoboken-Cloud_Engineer.id22676587?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ],
+    "job_id": "eyJqb2JfdGl0bGUiOiJDbG91ZCBFbmdpbmVlciB8IEhvYm9rZW4sIE5KLCBVU0EiLCJjb21wYW55X25hbWUiOiJCcm93biBCcm90aGVycyBIYXJyaW1hbiBcdTAwMjYgQ28uIiwiYWRkcmVzc19jaXR5IjoiSG9ib2tlbiwgTkoiLCJodGlkb2NpZCI6IlB2VlpfRjZ3TDhEWXluSTJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXVG1WM0lGbHZjbXNzVlc1cGRHVmtJRk4wWVhSbGN3In0="
+  }
+]

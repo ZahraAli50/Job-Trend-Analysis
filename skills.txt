@@ -1,0 +1,13 @@
+Python
+SQL
+Machine Learning 
+Excel
+Deeplearning
+Power BI
+Tableau
+Communication
+Data Analysis
+AWS
+Git
+Docker
+Tensorflow
